@@ -244,6 +244,8 @@
     <HelpKINode Title="ModernLink.IconKeyProperty Field" Url="html/F_Hummingbird_UI_ModernLink_IconKeyProperty.htm" />
   </HelpKINode>
   <HelpKINode Title="IconProperty field" Url="html/F_Hummingbird_UI_ModernTile_IconProperty.htm" />
+  <HelpKINode Title="IconSize property" Url="html/P_Hummingbird_UI_ModernLink_IconSize.htm" />
+  <HelpKINode Title="IconSizeProperty field" Url="html/F_Hummingbird_UI_ModernLink_IconSizeProperty.htm" />
   <HelpKINode Title="Id property" Url="html/P_Hummingbird_UI_BasicWindow_Id.htm" />
   <HelpKINode Title="ImageSource property" Url="html/P_Hummingbird_UI_IconCheckBox_ImageSource.htm" />
   <HelpKINode Title="ImageSourceProperty field" Url="html/F_Hummingbird_UI_IconCheckBox_ImageSourceProperty.htm" />
@@ -371,6 +373,8 @@
   <HelpKINode Title="ModernLink.IconForegroundBrushProperty field" Url="html/F_Hummingbird_UI_ModernLink_IconForegroundBrushProperty.htm" />
   <HelpKINode Title="ModernLink.IconKey property" Url="html/P_Hummingbird_UI_ModernLink_IconKey.htm" />
   <HelpKINode Title="ModernLink.IconKeyProperty field" Url="html/F_Hummingbird_UI_ModernLink_IconKeyProperty.htm" />
+  <HelpKINode Title="ModernLink.IconSize property" Url="html/P_Hummingbird_UI_ModernLink_IconSize.htm" />
+  <HelpKINode Title="ModernLink.IconSizeProperty field" Url="html/F_Hummingbird_UI_ModernLink_IconSizeProperty.htm" />
   <HelpKINode Title="ModernLink.ModernLink constructor" Url="html/M_Hummingbird_UI_ModernLink__ctor.htm" />
   <HelpKINode Title="ModernLink.Text property" Url="html/P_Hummingbird_UI_ModernLink_Text.htm" />
   <HelpKINode Title="ModernLink.TextProperty field" Url="html/F_Hummingbird_UI_ModernLink_TextProperty.htm" />
