@@ -149,6 +149,7 @@
   <HelpKINode Title="GetIsToggleButtonVisible method" Url="html/M_Hummingbird_UI_TreeViewItemExtender_GetIsToggleButtonVisible.htm" />
   <HelpKINode Title="GetMarginProperty method" Url="html/M_Hummingbird_UI_GridWithPadding_GetMarginProperty.htm" />
   <HelpKINode Title="GetUseExtender method" Url="html/M_Hummingbird_UI_TreeViewItemExtender_GetUseExtender.htm" />
+  <HelpKINode Title="GetValue method" Url="html/M_Hummingbird_UI_ProgressBarSmoother_GetValue.htm" />
   <HelpKINode Title="GetWatermark method" Url="html/M_Hummingbird_UI_WatermarkService_GetWatermark.htm" />
   <HelpKINode Title="Good enumeration member">
     <HelpKINode Title="NotificationLevel Enumeration" Url="html/T_Hummingbird_UI_NotificationLevel.htm" />
@@ -207,6 +208,7 @@
   <HelpKINode Title="Hummingbird.UI.MultiSelectComboBox class" Url="html/T_Hummingbird_UI_MultiSelectComboBox.htm" />
   <HelpKINode Title="Hummingbird.UI.Node class" Url="html/T_Hummingbird_UI_Node.htm" />
   <HelpKINode Title="Hummingbird.UI.NotificationLevel enumeration" Url="html/T_Hummingbird_UI_NotificationLevel.htm" />
+  <HelpKINode Title="Hummingbird.UI.ProgressBarSmoother class" Url="html/T_Hummingbird_UI_ProgressBarSmoother.htm" />
   <HelpKINode Title="Hummingbird.UI.SyncTreeViewItem class" Url="html/T_Hummingbird_UI_SyncTreeViewItem.htm" />
   <HelpKINode Title="Hummingbird.UI.TextBlockAutoToolTip class" Url="html/T_Hummingbird_UI_TextBlockAutoToolTip.htm" />
   <HelpKINode Title="Hummingbird.UI.ToastNotificationWindow class" Url="html/T_Hummingbird_UI_ToastNotificationWindow.htm" />
@@ -510,6 +512,17 @@
   <HelpKINode Title="ParentOfType(Of T) method" Url="html/M_Hummingbird_UI_UIHelper_ParentOfType__1.htm" />
   <HelpKINode Title="ParentOfType&lt;T&gt; method" Url="html/M_Hummingbird_UI_UIHelper_ParentOfType__1.htm" />
   <HelpKINode Title="ParentWindow property" Url="html/P_Hummingbird_UI_ModernContent_ParentWindow.htm" />
+  <HelpKINode Title="ProgressBarSmoother class">
+    <HelpKINode Title="ProgressBarSmoother Class" Url="html/T_Hummingbird_UI_ProgressBarSmoother.htm" />
+    <HelpKINode Title="about ProgressBarSmoother class" Url="html/T_Hummingbird_UI_ProgressBarSmoother.htm" />
+    <HelpKINode Title="attached properties" Url="html/AttachedProperties_T_Hummingbird_UI_ProgressBarSmoother.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ProgressBarSmoother.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ProgressBarSmoother.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ProgressBarSmoother.GetValue method" Url="html/M_Hummingbird_UI_ProgressBarSmoother_GetValue.htm" />
+  <HelpKINode Title="ProgressBarSmoother.SetValue method" Url="html/M_Hummingbird_UI_ProgressBarSmoother_SetValue.htm" />
+  <HelpKINode Title="ProgressBarSmoother.Value attached property" Url="html/P_Hummingbird_UI_ProgressBarSmoother_Value.htm" />
+  <HelpKINode Title="ProgressBarSmoother.ValueProperty field" Url="html/F_Hummingbird_UI_ProgressBarSmoother_ValueProperty.htm" />
   <HelpKINode Title="PropertyChanged event" Url="html/E_Hummingbird_UI_Node_PropertyChanged.htm" />
   <HelpKINode Title="SelectedItems property" Url="html/P_Hummingbird_UI_MultiSelectComboBox_SelectedItems.htm" />
   <HelpKINode Title="SelectedItemsChanged event" Url="html/E_Hummingbird_UI_MultiSelectComboBox_SelectedItemsChanged.htm" />
@@ -518,6 +531,7 @@
   <HelpKINode Title="SetIsLastOne method" Url="html/M_Hummingbird_UI_TreeViewItemExtender_SetIsLastOne.htm" />
   <HelpKINode Title="SetIsToggleButtonVisible method" Url="html/M_Hummingbird_UI_TreeViewItemExtender_SetIsToggleButtonVisible.htm" />
   <HelpKINode Title="SetUseExtender method" Url="html/M_Hummingbird_UI_TreeViewItemExtender_SetUseExtender.htm" />
+  <HelpKINode Title="SetValue method" Url="html/M_Hummingbird_UI_ProgressBarSmoother_SetValue.htm" />
   <HelpKINode Title="SetWatermark method" Url="html/M_Hummingbird_UI_WatermarkService_SetWatermark.htm" />
   <HelpKINode Title="ShowBackstage method" Url="html/M_Hummingbird_UI_ModernWindow_ShowBackstage.htm" />
   <HelpKINode Title="ShowInformation method">
@@ -644,6 +658,8 @@
   <HelpKINode Title="UseExtenderProperty field" Url="html/F_Hummingbird_UI_TreeViewItemExtender_UseExtenderProperty.htm" />
   <HelpKINode Title="UseGradient property" Url="html/P_Hummingbird_UI_ModernTile_UseGradient.htm" />
   <HelpKINode Title="UseGradientProperty field" Url="html/F_Hummingbird_UI_ModernTile_UseGradientProperty.htm" />
+  <HelpKINode Title="Value attached property" Url="html/P_Hummingbird_UI_ProgressBarSmoother_Value.htm" />
+  <HelpKINode Title="ValueProperty field" Url="html/F_Hummingbird_UI_ProgressBarSmoother_ValueProperty.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0.0" Url="html/138281a8-ea0b-434e-bef4-21d354eacff1.htm" />
     <HelpKINode Title="history" Url="html/c730a769-6293-413e-af0f-6b7af5115ab0.htm" />
