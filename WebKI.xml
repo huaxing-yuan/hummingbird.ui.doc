@@ -2,7 +2,6 @@
 <HelpKI>
   <HelpKINode Title="AppBarButton class">
     <HelpKINode Title="AppBarButton Class" Url="html/T_Hummingbird_UI_AppBarButton.htm" />
-    <HelpKINode Title="about AppBarButton class" Url="html/T_Hummingbird_UI_AppBarButton.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_AppBarButton__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_AppBarButton.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_AppBarButton.htm" />
@@ -11,7 +10,7 @@
   <HelpKINode Title="AppBarButton.AppBarButton constructor" Url="html/M_Hummingbird_UI_AppBarButton__ctor.htm" />
   <HelpKINode Title="AppBarButton.Caption property" Url="html/P_Hummingbird_UI_AppBarButton_Caption.htm" />
   <HelpKINode Title="AppBarButton.CaptionProperty field" Url="html/F_Hummingbird_UI_AppBarButton_CaptionProperty.htm" />
-  <HelpKINode Title="AppBarButton.Dispose method" Url="html/M_Hummingbird_UI_AppBarButton_Dispose.htm" />
+  <HelpKINode Title="AppBarButton.Dispose method" Url="html/Overload_Hummingbird_UI_AppBarButton_Dispose.htm" />
   <HelpKINode Title="AppBarButton.IconKey property" Url="html/P_Hummingbird_UI_AppBarButton_IconKey.htm" />
   <HelpKINode Title="AppBarButton.IconKeyProperty field" Url="html/F_Hummingbird_UI_AppBarButton_IconKeyProperty.htm" />
   <HelpKINode Title="AppBarButton.IsChecked property" Url="html/P_Hummingbird_UI_AppBarButton_IsChecked.htm" />
@@ -22,7 +21,6 @@
   <HelpKINode Title="AppBarButton.IsToggleButtonProperty field" Url="html/F_Hummingbird_UI_AppBarButton_IsToggleButtonProperty.htm" />
   <HelpKINode Title="AppBarIcon class">
     <HelpKINode Title="AppBarIcon Class" Url="html/T_Hummingbird_UI_AppBarIcon.htm" />
-    <HelpKINode Title="about AppBarIcon class" Url="html/T_Hummingbird_UI_AppBarIcon.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_AppBarIcon__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_AppBarIcon.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_AppBarIcon.htm" />
@@ -37,7 +35,6 @@
   <HelpKINode Title="Bad enumeration member" Url="html/T_Hummingbird_UI_WindowBorderType.htm" />
   <HelpKINode Title="BasicWindow class">
     <HelpKINode Title="BasicWindow Class" Url="html/T_Hummingbird_UI_BasicWindow.htm" />
-    <HelpKINode Title="about BasicWindow class" Url="html/T_Hummingbird_UI_BasicWindow.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_BasicWindow__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_BasicWindow.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_BasicWindow.htm" />
@@ -53,7 +50,7 @@
   <HelpKINode Title="BasicWindow.DefaultLightBackground property" Url="html/P_Hummingbird_UI_BasicWindow_DefaultLightBackground.htm" />
   <HelpKINode Title="BasicWindow.DefaultLightIcon property" Url="html/P_Hummingbird_UI_BasicWindow_DefaultLightIcon.htm" />
   <HelpKINode Title="BasicWindow.DefaultStyle property" Url="html/P_Hummingbird_UI_BasicWindow_DefaultStyle.htm" />
-  <HelpKINode Title="BasicWindow.Dispose method" Url="html/M_Hummingbird_UI_BasicWindow_Dispose.htm" />
+  <HelpKINode Title="BasicWindow.Dispose method" Url="html/Overload_Hummingbird_UI_BasicWindow_Dispose.htm" />
   <HelpKINode Title="BasicWindow.HasControlBox property" Url="html/P_Hummingbird_UI_BasicWindow_HasControlBox.htm" />
   <HelpKINode Title="BasicWindow.HasControlBoxProperty field" Url="html/F_Hummingbird_UI_BasicWindow_HasControlBoxProperty.htm" />
   <HelpKINode Title="BasicWindow.HasLoaded property" Url="html/P_Hummingbird_UI_BasicWindow_HasLoaded.htm" />
@@ -74,7 +71,6 @@
   <HelpKINode Title="BasicWindow.WindowStatusProperty field" Url="html/F_Hummingbird_UI_BasicWindow_WindowStatusProperty.htm" />
   <HelpKINode Title="BooleanToVisibilityConverterReversed class">
     <HelpKINode Title="BooleanToVisibilityConverterReversed Class" Url="html/T_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed.htm" />
-    <HelpKINode Title="about BooleanToVisibilityConverterReversed class" Url="html/T_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed.htm" />
   </HelpKINode>
@@ -90,7 +86,6 @@
   <HelpKINode Title="CheckedTextProperty field" Url="html/F_Hummingbird_UI_ModernSwitch_CheckedTextProperty.htm" />
   <HelpKINode Title="ClassicMessageBox class">
     <HelpKINode Title="ClassicMessageBox Class" Url="html/T_Hummingbird_UI_ClassicMessageBox.htm" />
-    <HelpKINode Title="about ClassicMessageBox class" Url="html/T_Hummingbird_UI_ClassicMessageBox.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ClassicMessageBox.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ClassicMessageBox.htm" />
   </HelpKINode>
@@ -136,9 +131,9 @@
   <HelpKINode Title="DetachedName property" Url="html/P_Hummingbird_UI_ModernContent_DetachedName.htm" />
   <HelpKINode Title="DisplayNumber property" Url="html/P_Hummingbird_UI_ModernCounter_DisplayNumber.htm" />
   <HelpKINode Title="Dispose method">
-    <HelpKINode Title="AppBarButton.Dispose Method " Url="html/M_Hummingbird_UI_AppBarButton_Dispose.htm" />
-    <HelpKINode Title="BasicWindow.Dispose Method " Url="html/M_Hummingbird_UI_BasicWindow_Dispose.htm" />
-    <HelpKINode Title="ModernContent.Dispose Method " Url="html/M_Hummingbird_UI_ModernContent_Dispose.htm" />
+    <HelpKINode Title="AppBarButton.Dispose Method " Url="html/Overload_Hummingbird_UI_AppBarButton_Dispose.htm" />
+    <HelpKINode Title="BasicWindow.Dispose Method " Url="html/Overload_Hummingbird_UI_BasicWindow_Dispose.htm" />
+    <HelpKINode Title="ModernContent.Dispose Method " Url="html/Overload_Hummingbird_UI_ModernContent_Dispose.htm" />
   </HelpKINode>
   <HelpKINode Title="Enabled attached property" Url="html/P_Hummingbird_UI_TextBlockAutoToolTip_Enabled.htm" />
   <HelpKINode Title="EnabledProperty field" Url="html/F_Hummingbird_UI_TextBlockAutoToolTip_EnabledProperty.htm" />
@@ -157,7 +152,6 @@
   </HelpKINode>
   <HelpKINode Title="GridWithPadding class">
     <HelpKINode Title="GridWithPadding Class" Url="html/T_Hummingbird_UI_GridWithPadding.htm" />
-    <HelpKINode Title="about GridWithPadding class" Url="html/T_Hummingbird_UI_GridWithPadding.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_GridWithPadding__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_GridWithPadding.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_GridWithPadding.htm" />
@@ -211,7 +205,6 @@
   <HelpKINode Title="Hummingbird.UI.ProgressBarSmoother class" Url="html/T_Hummingbird_UI_ProgressBarSmoother.htm" />
   <HelpKINode Title="Hummingbird.UI.SyncTreeViewItem class" Url="html/T_Hummingbird_UI_SyncTreeViewItem.htm" />
   <HelpKINode Title="Hummingbird.UI.TextBlockAutoToolTip class" Url="html/T_Hummingbird_UI_TextBlockAutoToolTip.htm" />
-  <HelpKINode Title="Hummingbird.UI.ToastNotificationWindow class" Url="html/T_Hummingbird_UI_ToastNotificationWindow.htm" />
   <HelpKINode Title="Hummingbird.UI.TreeViewItemExtender class" Url="html/T_Hummingbird_UI_TreeViewItemExtender.htm" />
   <HelpKINode Title="Hummingbird.UI.UIHelper class" Url="html/T_Hummingbird_UI_UIHelper.htm" />
   <HelpKINode Title="Hummingbird.UI.WatermarkService class" Url="html/T_Hummingbird_UI_WatermarkService.htm" />
@@ -219,7 +212,6 @@
   <HelpKINode Title="Icon property" Url="html/P_Hummingbird_UI_ModernTile_Icon.htm" />
   <HelpKINode Title="IconCheckBox class">
     <HelpKINode Title="IconCheckBox Class" Url="html/T_Hummingbird_UI_IconCheckBox.htm" />
-    <HelpKINode Title="about IconCheckBox class" Url="html/T_Hummingbird_UI_IconCheckBox.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_IconCheckBox__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_IconCheckBox.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_IconCheckBox.htm" />
@@ -252,18 +244,14 @@
   <HelpKINode Title="ImageSource property" Url="html/P_Hummingbird_UI_IconCheckBox_ImageSource.htm" />
   <HelpKINode Title="ImageSourceProperty field" Url="html/F_Hummingbird_UI_IconCheckBox_ImageSourceProperty.htm" />
   <HelpKINode Title="Information enumeration member" Url="html/T_Hummingbird_UI_NotificationLevel.htm" />
-  <HelpKINode Title="Information property" Url="html/P_Hummingbird_UI_ToastNotificationWindow_Information.htm" />
-  <HelpKINode Title="InformationProperty field" Url="html/F_Hummingbird_UI_ToastNotificationWindow_InformationProperty.htm" />
   <HelpKINode Title="InitializeComponent method">
     <HelpKINode Title="ClassicMessageBox.InitializeComponent Method " Url="html/M_Hummingbird_UI_ClassicMessageBox_InitializeComponent.htm" />
     <HelpKINode Title="ModernCounter.InitializeComponent Method " Url="html/M_Hummingbird_UI_ModernCounter_InitializeComponent.htm" />
     <HelpKINode Title="ModernProgressBar.InitializeComponent Method " Url="html/M_Hummingbird_UI_ModernProgressBar_InitializeComponent.htm" />
     <HelpKINode Title="MultiSelectComboBox.InitializeComponent Method " Url="html/M_Hummingbird_UI_MultiSelectComboBox_InitializeComponent.htm" />
-    <HelpKINode Title="ToastNotificationWindow.InitializeComponent Method " Url="html/M_Hummingbird_UI_ToastNotificationWindow_InitializeComponent.htm" />
   </HelpKINode>
   <HelpKINode Title="IntToVisibilityConverterReversed class">
     <HelpKINode Title="IntToVisibilityConverterReversed Class" Url="html/T_Hummingbird_UI_Converters_IntToVisibilityConverterReversed.htm" />
-    <HelpKINode Title="about IntToVisibilityConverterReversed class" Url="html/T_Hummingbird_UI_Converters_IntToVisibilityConverterReversed.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_Converters_IntToVisibilityConverterReversed__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_Converters_IntToVisibilityConverterReversed.htm" />
   </HelpKINode>
@@ -325,7 +313,6 @@
   <HelpKINode Title="MainMenuProperty field" Url="html/F_Hummingbird_UI_ModernWindow_MainMenuProperty.htm" />
   <HelpKINode Title="ModernContent class">
     <HelpKINode Title="ModernContent Class" Url="html/T_Hummingbird_UI_ModernContent.htm" />
-    <HelpKINode Title="about ModernContent class" Url="html/T_Hummingbird_UI_ModernContent.htm" />
     <HelpKINode Title="constructor" Url="html/Overload_Hummingbird_UI_ModernContent__ctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_Hummingbird_UI_ModernContent.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernContent.htm" />
@@ -337,7 +324,7 @@
   <HelpKINode Title="ModernContent.CommandArea property" Url="html/P_Hummingbird_UI_ModernContent_CommandArea.htm" />
   <HelpKINode Title="ModernContent.ContentChanged property" Url="html/P_Hummingbird_UI_ModernContent_ContentChanged.htm" />
   <HelpKINode Title="ModernContent.DetachedName property" Url="html/P_Hummingbird_UI_ModernContent_DetachedName.htm" />
-  <HelpKINode Title="ModernContent.Dispose method" Url="html/M_Hummingbird_UI_ModernContent_Dispose.htm" />
+  <HelpKINode Title="ModernContent.Dispose method" Url="html/Overload_Hummingbird_UI_ModernContent_Dispose.htm" />
   <HelpKINode Title="ModernContent.HasLoaded property" Url="html/P_Hummingbird_UI_ModernContent_HasLoaded.htm" />
   <HelpKINode Title="ModernContent.HasNoValidationError method" Url="html/M_Hummingbird_UI_ModernContent_HasNoValidationError.htm" />
   <HelpKINode Title="ModernContent.IsDetachable property" Url="html/P_Hummingbird_UI_ModernContent_IsDetachable.htm" />
@@ -351,7 +338,6 @@
   <HelpKINode Title="ModernContent.StrongName property" Url="html/P_Hummingbird_UI_ModernContent_StrongName.htm" />
   <HelpKINode Title="ModernCounter class">
     <HelpKINode Title="ModernCounter Class" Url="html/T_Hummingbird_UI_ModernCounter.htm" />
-    <HelpKINode Title="about ModernCounter class" Url="html/T_Hummingbird_UI_ModernCounter.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernCounter__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ModernCounter.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ModernCounter.htm" />
@@ -364,7 +350,6 @@
   <HelpKINode Title="ModernCounter.TextColor property" Url="html/P_Hummingbird_UI_ModernCounter_TextColor.htm" />
   <HelpKINode Title="ModernLink class">
     <HelpKINode Title="ModernLink Class" Url="html/T_Hummingbird_UI_ModernLink.htm" />
-    <HelpKINode Title="about ModernLink class" Url="html/T_Hummingbird_UI_ModernLink.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernLink__ctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_Hummingbird_UI_ModernLink.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernLink.htm" />
@@ -382,7 +367,6 @@
   <HelpKINode Title="ModernLink.TextProperty field" Url="html/F_Hummingbird_UI_ModernLink_TextProperty.htm" />
   <HelpKINode Title="ModernMenuItem class">
     <HelpKINode Title="ModernMenuItem Class" Url="html/T_Hummingbird_UI_ModernMenuItem.htm" />
-    <HelpKINode Title="about ModernMenuItem class" Url="html/T_Hummingbird_UI_ModernMenuItem.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernMenuItem__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernMenuItem.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ModernMenuItem.htm" />
@@ -398,13 +382,11 @@
   <HelpKINode Title="ModernMenuItem.ModernMenuItem constructor" Url="html/M_Hummingbird_UI_ModernMenuItem__ctor.htm" />
   <HelpKINode Title="ModernPresenter class">
     <HelpKINode Title="ModernPresenter Class" Url="html/T_Hummingbird_UI_ModernPresenter.htm" />
-    <HelpKINode Title="about ModernPresenter class" Url="html/T_Hummingbird_UI_ModernPresenter.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernPresenter__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="ModernPresenter.ModernPresenter constructor" Url="html/M_Hummingbird_UI_ModernPresenter__ctor.htm" />
   <HelpKINode Title="ModernProgressBar class">
     <HelpKINode Title="ModernProgressBar Class" Url="html/T_Hummingbird_UI_ModernProgressBar.htm" />
-    <HelpKINode Title="about ModernProgressBar class" Url="html/T_Hummingbird_UI_ModernProgressBar.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernProgressBar__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ModernProgressBar.htm" />
   </HelpKINode>
@@ -412,7 +394,6 @@
   <HelpKINode Title="ModernProgressBar.ModernProgressBar constructor" Url="html/M_Hummingbird_UI_ModernProgressBar__ctor.htm" />
   <HelpKINode Title="ModernSwitch class">
     <HelpKINode Title="ModernSwitch Class" Url="html/T_Hummingbird_UI_ModernSwitch.htm" />
-    <HelpKINode Title="about ModernSwitch class" Url="html/T_Hummingbird_UI_ModernSwitch.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernSwitch__ctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_Hummingbird_UI_ModernSwitch.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernSwitch.htm" />
@@ -428,7 +409,6 @@
   <HelpKINode Title="ModernSwitch.UnCheckedTextProperty field" Url="html/F_Hummingbird_UI_ModernSwitch_UnCheckedTextProperty.htm" />
   <HelpKINode Title="ModernTile class">
     <HelpKINode Title="ModernTile Class" Url="html/T_Hummingbird_UI_ModernTile.htm" />
-    <HelpKINode Title="about ModernTile class" Url="html/T_Hummingbird_UI_ModernTile.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernTile__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernTile.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ModernTile.htm" />
@@ -446,7 +426,6 @@
   <HelpKINode Title="ModernTile.UseGradientProperty field" Url="html/F_Hummingbird_UI_ModernTile_UseGradientProperty.htm" />
   <HelpKINode Title="ModernWindow class">
     <HelpKINode Title="ModernWindow Class" Url="html/T_Hummingbird_UI_ModernWindow.htm" />
-    <HelpKINode Title="about ModernWindow class" Url="html/T_Hummingbird_UI_ModernWindow.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernWindow__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernWindow.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ModernWindow.htm" />
@@ -471,7 +450,6 @@
   <HelpKINode Title="ModernWindow.StatusBarProperty field" Url="html/F_Hummingbird_UI_ModernWindow_StatusBarProperty.htm" />
   <HelpKINode Title="MultiSelectComboBox class">
     <HelpKINode Title="MultiSelectComboBox Class" Url="html/T_Hummingbird_UI_MultiSelectComboBox.htm" />
-    <HelpKINode Title="about MultiSelectComboBox class" Url="html/T_Hummingbird_UI_MultiSelectComboBox.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_MultiSelectComboBox__ctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_Hummingbird_UI_MultiSelectComboBox.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_MultiSelectComboBox.htm" />
@@ -492,7 +470,6 @@
   <HelpKINode Title="NavigateTo method" Url="html/M_Hummingbird_UI_ModernWindow_NavigateTo.htm" />
   <HelpKINode Title="Node class">
     <HelpKINode Title="Node Class" Url="html/T_Hummingbird_UI_Node.htm" />
-    <HelpKINode Title="about Node class" Url="html/T_Hummingbird_UI_Node.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_Node__ctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_Hummingbird_UI_Node.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_Node.htm" />
@@ -505,8 +482,6 @@
   <HelpKINode Title="Node.Title property" Url="html/P_Hummingbird_UI_Node_Title.htm" />
   <HelpKINode Title="Normal enumeration member" Url="html/T_Hummingbird_UI_WindowBorderType.htm" />
   <HelpKINode Title="NotificationLevel enumeration" Url="html/T_Hummingbird_UI_NotificationLevel.htm" />
-  <HelpKINode Title="NotificationLevel property" Url="html/P_Hummingbird_UI_ToastNotificationWindow_NotificationLevel.htm" />
-  <HelpKINode Title="NotificationLevelProperty field" Url="html/F_Hummingbird_UI_ToastNotificationWindow_NotificationLevelProperty.htm" />
   <HelpKINode Title="NotifyPropertyChanged method" Url="html/M_Hummingbird_UI_Node_NotifyPropertyChanged.htm" />
   <HelpKINode Title="Padding property" Url="html/P_Hummingbird_UI_GridWithPadding_Padding.htm" />
   <HelpKINode Title="ParentOfType(Of T) method" Url="html/M_Hummingbird_UI_UIHelper_ParentOfType__1.htm" />
@@ -514,7 +489,6 @@
   <HelpKINode Title="ParentWindow property" Url="html/P_Hummingbird_UI_ModernContent_ParentWindow.htm" />
   <HelpKINode Title="ProgressBarSmoother class">
     <HelpKINode Title="ProgressBarSmoother Class" Url="html/T_Hummingbird_UI_ProgressBarSmoother.htm" />
-    <HelpKINode Title="about ProgressBarSmoother class" Url="html/T_Hummingbird_UI_ProgressBarSmoother.htm" />
     <HelpKINode Title="attached properties" Url="html/AttachedProperties_T_Hummingbird_UI_ProgressBarSmoother.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ProgressBarSmoother.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ProgressBarSmoother.htm" />
@@ -556,7 +530,6 @@
   <HelpKINode Title="StatusBarProperty field" Url="html/F_Hummingbird_UI_ModernWindow_StatusBarProperty.htm" />
   <HelpKINode Title="StringToIntArrayTypeConverter class">
     <HelpKINode Title="StringToIntArrayTypeConverter Class" Url="html/T_Hummingbird_UI_Converters_StringToIntArrayTypeConverter.htm" />
-    <HelpKINode Title="about StringToIntArrayTypeConverter class" Url="html/T_Hummingbird_UI_Converters_StringToIntArrayTypeConverter.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_Converters_StringToIntArrayTypeConverter__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_Converters_StringToIntArrayTypeConverter.htm" />
   </HelpKINode>
@@ -566,7 +539,6 @@
   <HelpKINode Title="StringToIntArrayTypeConverter.StringToIntArrayTypeConverter constructor" Url="html/M_Hummingbird_UI_Converters_StringToIntArrayTypeConverter__ctor.htm" />
   <HelpKINode Title="StringToResourceConverter class">
     <HelpKINode Title="StringToResourceConverter Class" Url="html/T_Hummingbird_UI_Converters_StringToResourceConverter.htm" />
-    <HelpKINode Title="about StringToResourceConverter class" Url="html/T_Hummingbird_UI_Converters_StringToResourceConverter.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_Converters_StringToResourceConverter__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_Converters_StringToResourceConverter.htm" />
   </HelpKINode>
@@ -576,7 +548,6 @@
   <HelpKINode Title="StrongName property" Url="html/P_Hummingbird_UI_ModernContent_StrongName.htm" />
   <HelpKINode Title="SyncTreeViewItem class">
     <HelpKINode Title="SyncTreeViewItem Class" Url="html/T_Hummingbird_UI_SyncTreeViewItem.htm" />
-    <HelpKINode Title="about SyncTreeViewItem class" Url="html/T_Hummingbird_UI_SyncTreeViewItem.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_SyncTreeViewItem__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_SyncTreeViewItem.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_SyncTreeViewItem.htm" />
@@ -590,39 +561,21 @@
   </HelpKINode>
   <HelpKINode Title="TextBlockAutoToolTip class">
     <HelpKINode Title="TextBlockAutoToolTip Class" Url="html/T_Hummingbird_UI_TextBlockAutoToolTip.htm" />
-    <HelpKINode Title="about TextBlockAutoToolTip class" Url="html/T_Hummingbird_UI_TextBlockAutoToolTip.htm" />
     <HelpKINode Title="attached properties" Url="html/AttachedProperties_T_Hummingbird_UI_TextBlockAutoToolTip.htm" />
-    <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_TextBlockAutoToolTip__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_TextBlockAutoToolTip.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_TextBlockAutoToolTip.htm" />
   </HelpKINode>
   <HelpKINode Title="TextBlockAutoToolTip.Enabled attached property" Url="html/P_Hummingbird_UI_TextBlockAutoToolTip_Enabled.htm" />
   <HelpKINode Title="TextBlockAutoToolTip.EnabledProperty field" Url="html/F_Hummingbird_UI_TextBlockAutoToolTip_EnabledProperty.htm" />
   <HelpKINode Title="TextBlockAutoToolTip.SetEnabled method" Url="html/M_Hummingbird_UI_TextBlockAutoToolTip_SetEnabled.htm" />
-  <HelpKINode Title="TextBlockAutoToolTip.TextBlockAutoToolTip constructor" Url="html/M_Hummingbird_UI_TextBlockAutoToolTip__ctor.htm" />
   <HelpKINode Title="TextColor property" Url="html/P_Hummingbird_UI_ModernCounter_TextColor.htm" />
   <HelpKINode Title="TextProperty field">
     <HelpKINode Title="ModernLink.TextProperty Field" Url="html/F_Hummingbird_UI_ModernLink_TextProperty.htm" />
     <HelpKINode Title="MultiSelectComboBox.TextProperty Field" Url="html/F_Hummingbird_UI_MultiSelectComboBox_TextProperty.htm" />
   </HelpKINode>
   <HelpKINode Title="Title property" Url="html/P_Hummingbird_UI_Node_Title.htm" />
-  <HelpKINode Title="ToastNotificationWindow class">
-    <HelpKINode Title="ToastNotificationWindow Class" Url="html/T_Hummingbird_UI_ToastNotificationWindow.htm" />
-    <HelpKINode Title="about ToastNotificationWindow class" Url="html/T_Hummingbird_UI_ToastNotificationWindow.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_Hummingbird_UI_ToastNotificationWindow__ctor.htm" />
-    <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ToastNotificationWindow.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ToastNotificationWindow.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ToastNotificationWindow.htm" />
-  </HelpKINode>
-  <HelpKINode Title="ToastNotificationWindow.Information property" Url="html/P_Hummingbird_UI_ToastNotificationWindow_Information.htm" />
-  <HelpKINode Title="ToastNotificationWindow.InformationProperty field" Url="html/F_Hummingbird_UI_ToastNotificationWindow_InformationProperty.htm" />
-  <HelpKINode Title="ToastNotificationWindow.InitializeComponent method" Url="html/M_Hummingbird_UI_ToastNotificationWindow_InitializeComponent.htm" />
-  <HelpKINode Title="ToastNotificationWindow.NotificationLevel property" Url="html/P_Hummingbird_UI_ToastNotificationWindow_NotificationLevel.htm" />
-  <HelpKINode Title="ToastNotificationWindow.NotificationLevelProperty field" Url="html/F_Hummingbird_UI_ToastNotificationWindow_NotificationLevelProperty.htm" />
-  <HelpKINode Title="ToastNotificationWindow.ToastNotificationWindow constructor" Url="html/Overload_Hummingbird_UI_ToastNotificationWindow__ctor.htm" />
   <HelpKINode Title="TreeViewItemExtender class">
     <HelpKINode Title="TreeViewItemExtender Class" Url="html/T_Hummingbird_UI_TreeViewItemExtender.htm" />
-    <HelpKINode Title="about TreeViewItemExtender class" Url="html/T_Hummingbird_UI_TreeViewItemExtender.htm" />
     <HelpKINode Title="attached properties" Url="html/AttachedProperties_T_Hummingbird_UI_TreeViewItemExtender.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_TreeViewItemExtender__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_TreeViewItemExtender.htm" />
@@ -644,13 +597,10 @@
   <HelpKINode Title="TreeViewItemExtender.UseExtenderProperty field" Url="html/F_Hummingbird_UI_TreeViewItemExtender_UseExtenderProperty.htm" />
   <HelpKINode Title="UIHelper class">
     <HelpKINode Title="UIHelper Class" Url="html/T_Hummingbird_UI_UIHelper.htm" />
-    <HelpKINode Title="about UIHelper class" Url="html/T_Hummingbird_UI_UIHelper.htm" />
-    <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_UIHelper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_UIHelper.htm" />
   </HelpKINode>
   <HelpKINode Title="UIHelper.ParentOfType(Of T) method" Url="html/M_Hummingbird_UI_UIHelper_ParentOfType__1.htm" />
   <HelpKINode Title="UIHelper.ParentOfType&lt;T&gt; method" Url="html/M_Hummingbird_UI_UIHelper_ParentOfType__1.htm" />
-  <HelpKINode Title="UIHelper.UIHelper constructor" Url="html/M_Hummingbird_UI_UIHelper__ctor.htm" />
   <HelpKINode Title="UnCheckedText property" Url="html/P_Hummingbird_UI_ModernSwitch_UnCheckedText.htm" />
   <HelpKINode Title="UnCheckedTextProperty field" Url="html/F_Hummingbird_UI_ModernSwitch_UnCheckedTextProperty.htm" />
   <HelpKINode Title="UpdateIconBackground method" Url="html/M_Hummingbird_UI_BasicWindow_UpdateIconBackground.htm" />
@@ -669,7 +619,6 @@
   <HelpKINode Title="WatermarkProperty field" Url="html/F_Hummingbird_UI_WatermarkService_WatermarkProperty.htm" />
   <HelpKINode Title="WatermarkService class">
     <HelpKINode Title="WatermarkService Class" Url="html/T_Hummingbird_UI_WatermarkService.htm" />
-    <HelpKINode Title="about WatermarkService class" Url="html/T_Hummingbird_UI_WatermarkService.htm" />
     <HelpKINode Title="attached properties" Url="html/AttachedProperties_T_Hummingbird_UI_WatermarkService.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_WatermarkService.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_WatermarkService.htm" />
