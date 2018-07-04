@@ -3,7 +3,7 @@
 
   <HelpTOCNode Title="Introduction of UI Framework" Url="html/0d5cd3b0-d659-4b04-aec6-c3b1c573c379.htm" />
   <HelpTOCNode Title="Quick start guide" Url="html/2d044243-ea98-4212-bddf-257e4b84a285.htm" />
-  <HelpTOCNode Id="59afc55f-018c-498d-9a17-3cfe88ba184a" Title="Modern Controls" Url="html/bef1ef4e-5a29-4dbc-a1b5-86a2e78c378a.htm">
+  <HelpTOCNode Id="6bf423d7-fb89-4f71-abf3-f29c91431820" Title="Modern Controls" Url="html/bef1ef4e-5a29-4dbc-a1b5-86a2e78c378a.htm">
     <HelpTOCNode Title="Modern Window" Url="html/60c5b27b-8100-4ec4-aab3-74b7a012f10c.htm" />
     <HelpTOCNode Title="Basic Window" Url="html/e248f946-41ce-4f62-a60a-700eb0d8115c.htm" />
     <HelpTOCNode Title="AppBar Button" Url="html/7245aaba-39f1-423e-895c-f5b0e72394a5.htm" />
@@ -18,27 +18,27 @@
   <HelpTOCNode Title="Classic Windows Controls" Url="html/9cef0640-9d10-4b1b-9a05-19e5bc615441.htm" />
   <HelpTOCNode Title="Use Custom Themes" Url="html/b537dcac-ce9f-45b4-90f2-b65d3b9b891e.htm" />
   <HelpTOCNode Title="License Agreement" Url="html/2ce96079-1f5e-4807-961a-3e93aaa65908.htm" />
-  <HelpTOCNode Id="6cd907de-ea5c-4e13-bac0-8103eacaa0ff" Title="Version History" Url="html/c730a769-6293-413e-af0f-6b7af5115ab0.htm">
+  <HelpTOCNode Id="155ec150-f5f9-4a86-9f68-443c5051319e" Title="Version History" Url="html/c730a769-6293-413e-af0f-6b7af5115ab0.htm">
     <HelpTOCNode Title="Version 1.0.0.0" Url="html/138281a8-ea0b-434e-bef4-21d354eacff1.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="612c6db9-2a1b-43c9-a9d5-f3d687e326f5" Title="Hummingbird UI References" Url="html/R_Project_Hummingbird_UI_Framework.htm">
-    <HelpTOCNode Id="93b09b69-0dc8-49ca-9380-4a0098cb4a94" Title="Hummingbird.UI" Url="html/N_Hummingbird_UI.htm">
-      <HelpTOCNode Id="7e0179b2-ca6d-4d30-8db1-eaf986e279e3" Title="AppBarButton Class" Url="html/T_Hummingbird_UI_AppBarButton.htm">
+  <HelpTOCNode Id="7b3d6ab3-9a61-412b-b3c1-6520d090e3c3" Title="Hummingbird UI References" Url="html/R_Project_Hummingbird_UI_Framework.htm">
+    <HelpTOCNode Id="5bed4083-c078-4c0a-bd89-651e5081b174" Title="Hummingbird.UI" Url="html/N_Hummingbird_UI.htm">
+      <HelpTOCNode Id="28b27fd5-6dad-440e-9bc7-4dea9ccefb3e" Title="AppBarButton Class" Url="html/T_Hummingbird_UI_AppBarButton.htm">
         <HelpTOCNode Title="AppBarButton Constructor " Url="html/M_Hummingbird_UI_AppBarButton__ctor.htm" />
-        <HelpTOCNode Id="84b34a07-eb24-4444-a995-201a25e61e83" Title="AppBarButton Properties" Url="html/Properties_T_Hummingbird_UI_AppBarButton.htm">
+        <HelpTOCNode Id="49cba272-14e9-429b-8fb2-d89805e19057" Title="AppBarButton Properties" Url="html/Properties_T_Hummingbird_UI_AppBarButton.htm">
           <HelpTOCNode Title="Caption Property " Url="html/P_Hummingbird_UI_AppBarButton_Caption.htm" />
           <HelpTOCNode Title="IconKey Property " Url="html/P_Hummingbird_UI_AppBarButton_IconKey.htm" />
           <HelpTOCNode Title="IsChecked Property " Url="html/P_Hummingbird_UI_AppBarButton_IsChecked.htm" />
           <HelpTOCNode Title="IsCircleVisible Property " Url="html/P_Hummingbird_UI_AppBarButton_IsCircleVisible.htm" />
           <HelpTOCNode Title="IsToggleButton Property " Url="html/P_Hummingbird_UI_AppBarButton_IsToggleButton.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3e5ced5f-c77c-462b-af2f-3312b77cddc3" Title="AppBarButton Methods" Url="html/Methods_T_Hummingbird_UI_AppBarButton.htm">
-          <HelpTOCNode Id="f9bc054a-b17a-4ffa-b0cf-590bf9f22146" Title="Dispose Method " Url="html/Overload_Hummingbird_UI_AppBarButton_Dispose.htm">
+        <HelpTOCNode Id="1c9944cf-7393-4bee-9f7b-a44cc4147c48" Title="AppBarButton Methods" Url="html/Methods_T_Hummingbird_UI_AppBarButton.htm">
+          <HelpTOCNode Id="f88fd700-f020-4d45-a035-b4e82a8c12f4" Title="Dispose Method " Url="html/Overload_Hummingbird_UI_AppBarButton_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_Hummingbird_UI_AppBarButton_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_Hummingbird_UI_AppBarButton_Dispose_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="b9308205-f0db-4061-a72f-a20271c0c0fb" Title="AppBarButton Fields" Url="html/Fields_T_Hummingbird_UI_AppBarButton.htm">
+        <HelpTOCNode Id="73d50f4f-57d2-4038-973c-87216149de3a" Title="AppBarButton Fields" Url="html/Fields_T_Hummingbird_UI_AppBarButton.htm">
           <HelpTOCNode Title="CaptionProperty Field" Url="html/F_Hummingbird_UI_AppBarButton_CaptionProperty.htm" />
           <HelpTOCNode Title="IconKeyProperty Field" Url="html/F_Hummingbird_UI_AppBarButton_IconKeyProperty.htm" />
           <HelpTOCNode Title="IsCheckedProperty Field" Url="html/F_Hummingbird_UI_AppBarButton_IsCheckedProperty.htm" />
@@ -46,20 +46,20 @@
           <HelpTOCNode Title="IsToggleButtonProperty Field" Url="html/F_Hummingbird_UI_AppBarButton_IsToggleButtonProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="44206418-8c56-4126-b136-abc47bc94774" Title="AppBarIcon Class" Url="html/T_Hummingbird_UI_AppBarIcon.htm">
+      <HelpTOCNode Id="707efb86-616f-4604-ab3c-5e0f0cda2ef6" Title="AppBarIcon Class" Url="html/T_Hummingbird_UI_AppBarIcon.htm">
         <HelpTOCNode Title="AppBarIcon Constructor " Url="html/M_Hummingbird_UI_AppBarIcon__ctor.htm" />
-        <HelpTOCNode Id="a6730889-42a6-4d97-a9ff-3843314a2d2d" Title="AppBarIcon Properties" Url="html/Properties_T_Hummingbird_UI_AppBarIcon.htm">
+        <HelpTOCNode Id="e37a8255-ac7e-47ce-a542-fc68640bb1b2" Title="AppBarIcon Properties" Url="html/Properties_T_Hummingbird_UI_AppBarIcon.htm">
           <HelpTOCNode Title="IconKey Property " Url="html/P_Hummingbird_UI_AppBarIcon_IconKey.htm" />
           <HelpTOCNode Title="IsCircleVisible Property " Url="html/P_Hummingbird_UI_AppBarIcon_IsCircleVisible.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="314940fd-165c-439a-8ca8-a23137ab8b8e" Title="AppBarIcon Fields" Url="html/Fields_T_Hummingbird_UI_AppBarIcon.htm">
+        <HelpTOCNode Id="72d88369-bf6d-4bd5-b0df-e06fd7210799" Title="AppBarIcon Fields" Url="html/Fields_T_Hummingbird_UI_AppBarIcon.htm">
           <HelpTOCNode Title="IconKeyProperty Field" Url="html/F_Hummingbird_UI_AppBarIcon_IconKeyProperty.htm" />
           <HelpTOCNode Title="IsCircleVisibleProperty Field" Url="html/F_Hummingbird_UI_AppBarIcon_IsCircleVisibleProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e1f1a5f0-dd68-4df8-a754-d26278cc0128" Title="BasicWindow Class" Url="html/T_Hummingbird_UI_BasicWindow.htm">
+      <HelpTOCNode Id="277d0e40-b138-4515-9b07-0a1199eea509" Title="BasicWindow Class" Url="html/T_Hummingbird_UI_BasicWindow.htm">
         <HelpTOCNode Title="BasicWindow Constructor " Url="html/M_Hummingbird_UI_BasicWindow__ctor.htm" />
-        <HelpTOCNode Id="b863ab3d-db0e-4ab7-bc3b-b18c3430296e" Title="BasicWindow Properties" Url="html/Properties_T_Hummingbird_UI_BasicWindow.htm">
+        <HelpTOCNode Id="611a65bf-11c5-4b75-a458-213ac57a5bb3" Title="BasicWindow Properties" Url="html/Properties_T_Hummingbird_UI_BasicWindow.htm">
           <HelpTOCNode Title="Commands Property " Url="html/P_Hummingbird_UI_BasicWindow_Commands.htm" />
           <HelpTOCNode Title="DarkBackground Property " Url="html/P_Hummingbird_UI_BasicWindow_DarkBackground.htm" />
           <HelpTOCNode Title="DarkIcon Property " Url="html/P_Hummingbird_UI_BasicWindow_DarkIcon.htm" />
@@ -76,10 +76,13 @@
           <HelpTOCNode Title="IsTitleHighlighted Property " Url="html/P_Hummingbird_UI_BasicWindow_IsTitleHighlighted.htm" />
           <HelpTOCNode Title="LightBackground Property " Url="html/P_Hummingbird_UI_BasicWindow_LightBackground.htm" />
           <HelpTOCNode Title="LightIcon Property " Url="html/P_Hummingbird_UI_BasicWindow_LightIcon.htm" />
+          <HelpTOCNode Title="SideBar Property " Url="html/P_Hummingbird_UI_BasicWindow_SideBar.htm" />
+          <HelpTOCNode Title="SideBarTitle Property " Url="html/P_Hummingbird_UI_BasicWindow_SideBarTitle.htm" />
+          <HelpTOCNode Title="SideBarVisibility Property " Url="html/P_Hummingbird_UI_BasicWindow_SideBarVisibility.htm" />
           <HelpTOCNode Title="WindowStatus Property " Url="html/P_Hummingbird_UI_BasicWindow_WindowStatus.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="43d86c98-6b19-4ee1-9a0a-d8477d366957" Title="BasicWindow Methods" Url="html/Methods_T_Hummingbird_UI_BasicWindow.htm">
-          <HelpTOCNode Id="3b7c519a-b989-4127-9d3e-6c5782386515" Title="Dispose Method " Url="html/Overload_Hummingbird_UI_BasicWindow_Dispose.htm">
+        <HelpTOCNode Id="c0e3dcb2-9ae0-4729-b2b9-15175b470bc5" Title="BasicWindow Methods" Url="html/Methods_T_Hummingbird_UI_BasicWindow.htm">
+          <HelpTOCNode Id="8baeba3d-476c-4dc0-b49a-aa85dddbefbb" Title="Dispose Method " Url="html/Overload_Hummingbird_UI_BasicWindow_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_Hummingbird_UI_BasicWindow_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_Hummingbird_UI_BasicWindow_Dispose_1.htm" />
           </HelpTOCNode>
@@ -88,54 +91,57 @@
           <HelpTOCNode Title="ShowToastNotification Method " Url="html/M_Hummingbird_UI_BasicWindow_ShowToastNotification.htm" />
           <HelpTOCNode Title="UpdateIconBackground Method " Url="html/M_Hummingbird_UI_BasicWindow_UpdateIconBackground.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="33e6b49f-ffdf-47aa-a9bf-a063b748e2e0" Title="BasicWindow Fields" Url="html/Fields_T_Hummingbird_UI_BasicWindow.htm">
+        <HelpTOCNode Id="287d9369-1328-42a3-8e63-f56ee57a1b66" Title="BasicWindow Fields" Url="html/Fields_T_Hummingbird_UI_BasicWindow.htm">
           <HelpTOCNode Title="CommandsProperty Field" Url="html/F_Hummingbird_UI_BasicWindow_CommandsProperty.htm" />
           <HelpTOCNode Title="HasControlBoxProperty Field" Url="html/F_Hummingbird_UI_BasicWindow_HasControlBoxProperty.htm" />
           <HelpTOCNode Title="HasLoadedProperty Field" Url="html/F_Hummingbird_UI_BasicWindow_HasLoadedProperty.htm" />
           <HelpTOCNode Title="IsBusyProperty Field" Url="html/F_Hummingbird_UI_BasicWindow_IsBusyProperty.htm" />
           <HelpTOCNode Title="IsTitleHighlightedProperty Field" Url="html/F_Hummingbird_UI_BasicWindow_IsTitleHighlightedProperty.htm" />
+          <HelpTOCNode Title="SideBarProperty Field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarProperty.htm" />
+          <HelpTOCNode Title="SideBarTitleProperty Field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarTitleProperty.htm" />
+          <HelpTOCNode Title="SideBarVisibilityProperty Field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarVisibilityProperty.htm" />
           <HelpTOCNode Title="WindowStatusProperty Field" Url="html/F_Hummingbird_UI_BasicWindow_WindowStatusProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0fcfdbfe-5ac9-4d8f-afec-583e99fb37fb" Title="ClassicMessageBox Class" Url="html/T_Hummingbird_UI_ClassicMessageBox.htm">
+      <HelpTOCNode Id="a352ca62-b488-437d-a345-630c5ab77965" Title="ClassicMessageBox Class" Url="html/T_Hummingbird_UI_ClassicMessageBox.htm">
         <HelpTOCNode Title="ClassicMessageBox Properties" Url="html/Properties_T_Hummingbird_UI_ClassicMessageBox.htm" />
-        <HelpTOCNode Id="35aee48c-f7a7-4020-860b-fde1a80b43f7" Title="ClassicMessageBox Methods" Url="html/Methods_T_Hummingbird_UI_ClassicMessageBox.htm">
+        <HelpTOCNode Id="7e147efd-7ec7-48ef-8bae-bf0b70980da0" Title="ClassicMessageBox Methods" Url="html/Methods_T_Hummingbird_UI_ClassicMessageBox.htm">
           <HelpTOCNode Title="InitializeComponent Method " Url="html/M_Hummingbird_UI_ClassicMessageBox_InitializeComponent.htm" />
-          <HelpTOCNode Id="4f3d6b8e-220a-4162-84bc-9633a6d84113" Title="ShowMessageBox Method " Url="html/Overload_Hummingbird_UI_ClassicMessageBox_ShowMessageBox.htm">
+          <HelpTOCNode Id="80184224-4ccb-4916-9400-7cd1179a1e5c" Title="ShowMessageBox Method " Url="html/Overload_Hummingbird_UI_ClassicMessageBox_ShowMessageBox.htm">
             <HelpTOCNode Title="ShowMessageBox Method (DependencyObject, String, String, MessageBoxButton, MessageBoxImage, String)" Url="html/M_Hummingbird_UI_ClassicMessageBox_ShowMessageBox.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ad908dc5-f2a6-4959-9bb6-709bd14c066f" Title="GridWithPadding Class" Url="html/T_Hummingbird_UI_GridWithPadding.htm">
+      <HelpTOCNode Id="53b703bc-eb7c-4a5d-9e57-6e7574fd7295" Title="GridWithPadding Class" Url="html/T_Hummingbird_UI_GridWithPadding.htm">
         <HelpTOCNode Title="GridWithPadding Constructor " Url="html/M_Hummingbird_UI_GridWithPadding__ctor.htm" />
-        <HelpTOCNode Id="a3914213-1d71-4758-8cdd-b3c0aa3f9038" Title="GridWithPadding Properties" Url="html/Properties_T_Hummingbird_UI_GridWithPadding.htm">
+        <HelpTOCNode Id="87779d26-382b-4788-9cb4-129b8ad389f8" Title="GridWithPadding Properties" Url="html/Properties_T_Hummingbird_UI_GridWithPadding.htm">
           <HelpTOCNode Title="Padding Property " Url="html/P_Hummingbird_UI_GridWithPadding_Padding.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b74540b4-32e4-4c90-8fd4-95518bbe0e1c" Title="GridWithPadding Methods" Url="html/Methods_T_Hummingbird_UI_GridWithPadding.htm">
+        <HelpTOCNode Id="de2bb263-3ae3-4e44-bf4b-a5e0802d31af" Title="GridWithPadding Methods" Url="html/Methods_T_Hummingbird_UI_GridWithPadding.htm">
           <HelpTOCNode Title="GetMarginProperty Method " Url="html/M_Hummingbird_UI_GridWithPadding_GetMarginProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="741c97df-b645-4d63-9906-bf06c931eea3" Title="IconCheckBox Class" Url="html/T_Hummingbird_UI_IconCheckBox.htm">
+      <HelpTOCNode Id="23b6d7a1-27b7-4010-abc1-2317966b6b00" Title="IconCheckBox Class" Url="html/T_Hummingbird_UI_IconCheckBox.htm">
         <HelpTOCNode Title="IconCheckBox Constructor " Url="html/M_Hummingbird_UI_IconCheckBox__ctor.htm" />
-        <HelpTOCNode Id="c32ba382-d9f5-4e14-a7d6-a214b517f7b5" Title="IconCheckBox Properties" Url="html/Properties_T_Hummingbird_UI_IconCheckBox.htm">
+        <HelpTOCNode Id="746d3f79-7f4d-4022-a949-5183da46ebe0" Title="IconCheckBox Properties" Url="html/Properties_T_Hummingbird_UI_IconCheckBox.htm">
           <HelpTOCNode Title="Description Property " Url="html/P_Hummingbird_UI_IconCheckBox_Description.htm" />
           <HelpTOCNode Title="Header Property " Url="html/P_Hummingbird_UI_IconCheckBox_Header.htm" />
           <HelpTOCNode Title="ImageSource Property " Url="html/P_Hummingbird_UI_IconCheckBox_ImageSource.htm" />
           <HelpTOCNode Title="IsChecked Property " Url="html/P_Hummingbird_UI_IconCheckBox_IsChecked.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="4d9e445f-ca62-4b48-8477-0646b825aee7" Title="IconCheckBox Fields" Url="html/Fields_T_Hummingbird_UI_IconCheckBox.htm">
+        <HelpTOCNode Id="89876ada-4107-474e-828a-ad4dd5894f39" Title="IconCheckBox Fields" Url="html/Fields_T_Hummingbird_UI_IconCheckBox.htm">
           <HelpTOCNode Title="DescriptionProperty Field" Url="html/F_Hummingbird_UI_IconCheckBox_DescriptionProperty.htm" />
           <HelpTOCNode Title="HeaderProperty Field" Url="html/F_Hummingbird_UI_IconCheckBox_HeaderProperty.htm" />
           <HelpTOCNode Title="ImageSourceProperty Field" Url="html/F_Hummingbird_UI_IconCheckBox_ImageSourceProperty.htm" />
           <HelpTOCNode Title="IsCheckedProperty Field" Url="html/F_Hummingbird_UI_IconCheckBox_IsCheckedProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="276a92d8-4b6a-41d4-8ee6-d8e698028580" Title="ModernContent Class" Url="html/T_Hummingbird_UI_ModernContent.htm">
-        <HelpTOCNode Id="1c85fa21-1bec-4483-be2c-52546ee33aff" Title="ModernContent Constructor " Url="html/Overload_Hummingbird_UI_ModernContent__ctor.htm">
+      <HelpTOCNode Id="ceeed2f4-6d70-4f06-a7a7-1d7a2e2c2a13" Title="ModernContent Class" Url="html/T_Hummingbird_UI_ModernContent.htm">
+        <HelpTOCNode Id="3daf9506-4245-49af-8609-d8524e10c5dd" Title="ModernContent Constructor " Url="html/Overload_Hummingbird_UI_ModernContent__ctor.htm">
           <HelpTOCNode Title="ModernContent Constructor " Url="html/M_Hummingbird_UI_ModernContent__ctor.htm" />
           <HelpTOCNode Title="ModernContent Constructor (ModernWindow)" Url="html/M_Hummingbird_UI_ModernContent__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1e505ef7-c8bc-4840-a226-ca494858f34e" Title="ModernContent Properties" Url="html/Properties_T_Hummingbird_UI_ModernContent.htm">
+        <HelpTOCNode Id="9ae8b07e-557e-4bc6-959b-08e1d5aee3bd" Title="ModernContent Properties" Url="html/Properties_T_Hummingbird_UI_ModernContent.htm">
           <HelpTOCNode Title="CommandArea Property " Url="html/P_Hummingbird_UI_ModernContent_CommandArea.htm" />
           <HelpTOCNode Title="ContentChanged Property " Url="html/P_Hummingbird_UI_ModernContent_ContentChanged.htm" />
           <HelpTOCNode Title="DetachedName Property " Url="html/P_Hummingbird_UI_ModernContent_DetachedName.htm" />
@@ -145,107 +151,110 @@
           <HelpTOCNode Title="StatusBar Property " Url="html/P_Hummingbird_UI_ModernContent_StatusBar.htm" />
           <HelpTOCNode Title="StrongName Property " Url="html/P_Hummingbird_UI_ModernContent_StrongName.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d9b546f0-5f74-4092-9e6f-48061b914bd0" Title="ModernContent Methods" Url="html/Methods_T_Hummingbird_UI_ModernContent.htm">
+        <HelpTOCNode Id="84431a76-212e-4f6a-bd25-7808470f1e85" Title="ModernContent Methods" Url="html/Methods_T_Hummingbird_UI_ModernContent.htm">
           <HelpTOCNode Title="CanBeClosed Method " Url="html/M_Hummingbird_UI_ModernContent_CanBeClosed.htm" />
-          <HelpTOCNode Id="1bd40cfd-0715-4843-a494-a45064190270" Title="Dispose Method " Url="html/Overload_Hummingbird_UI_ModernContent_Dispose.htm">
+          <HelpTOCNode Id="7e011bec-c253-4fae-94cb-3d50327daa1b" Title="Dispose Method " Url="html/Overload_Hummingbird_UI_ModernContent_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_Hummingbird_UI_ModernContent_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_Hummingbird_UI_ModernContent_Dispose_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="HasNoValidationError Method " Url="html/M_Hummingbird_UI_ModernContent_HasNoValidationError.htm" />
           <HelpTOCNode Title="ShowInformation Method " Url="html/M_Hummingbird_UI_ModernContent_ShowInformation.htm" />
-          <HelpTOCNode Id="1a695028-b27b-4c28-a8b6-4e907fc72ae1" Title="ShowMessageBox Method " Url="html/Overload_Hummingbird_UI_ModernContent_ShowMessageBox.htm">
+          <HelpTOCNode Id="a084815d-8294-40e7-8449-fa7e24bcc480" Title="ShowMessageBox Method " Url="html/Overload_Hummingbird_UI_ModernContent_ShowMessageBox.htm">
             <HelpTOCNode Title="ShowMessageBox Method (String, String, String)" Url="html/M_Hummingbird_UI_ModernContent_ShowMessageBox.htm" />
             <HelpTOCNode Title="ShowMessageBox Method (String, String, MessageBoxButton, MessageBoxImage, String)" Url="html/M_Hummingbird_UI_ModernContent_ShowMessageBox_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="ShowToastNotification Method " Url="html/M_Hummingbird_UI_ModernContent_ShowToastNotification.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0ca9ac85-d719-49d3-9c06-1de672036b3f" Title="ModernContent Events" Url="html/Events_T_Hummingbird_UI_ModernContent.htm">
+        <HelpTOCNode Id="a30b89ab-943d-43ce-8d50-4e3467108a7f" Title="ModernContent Events" Url="html/Events_T_Hummingbird_UI_ModernContent.htm">
           <HelpTOCNode Title="Closing Event" Url="html/E_Hummingbird_UI_ModernContent_Closing.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c8409d66-ba39-48b9-9886-e30630afbcac" Title="ModernContent Fields" Url="html/Fields_T_Hummingbird_UI_ModernContent.htm">
+        <HelpTOCNode Id="f1601ec9-4f67-4f25-be4d-9319ca7cb57b" Title="ModernContent Fields" Url="html/Fields_T_Hummingbird_UI_ModernContent.htm">
           <HelpTOCNode Title="IsDetachableProperty Field" Url="html/F_Hummingbird_UI_ModernContent_IsDetachableProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="97db1556-2766-4c52-a0dd-166ee5b84258" Title="ModernCounter Class" Url="html/T_Hummingbird_UI_ModernCounter.htm">
+      <HelpTOCNode Id="4de79798-6f89-47e3-b6a3-a13def8faca5" Title="ModernCounter Class" Url="html/T_Hummingbird_UI_ModernCounter.htm">
         <HelpTOCNode Title="ModernCounter Constructor " Url="html/M_Hummingbird_UI_ModernCounter__ctor.htm" />
-        <HelpTOCNode Id="238d1cfe-b492-4441-be87-8da11a0bb2af" Title="ModernCounter Properties" Url="html/Properties_T_Hummingbird_UI_ModernCounter.htm">
+        <HelpTOCNode Id="61b8cdb8-0d00-469f-bd5b-f296c56b1061" Title="ModernCounter Properties" Url="html/Properties_T_Hummingbird_UI_ModernCounter.htm">
           <HelpTOCNode Title="Data Property " Url="html/P_Hummingbird_UI_ModernCounter_Data.htm" />
           <HelpTOCNode Title="DisplayNumber Property " Url="html/P_Hummingbird_UI_ModernCounter_DisplayNumber.htm" />
           <HelpTOCNode Title="Header Property " Url="html/P_Hummingbird_UI_ModernCounter_Header.htm" />
           <HelpTOCNode Title="TextColor Property " Url="html/P_Hummingbird_UI_ModernCounter_TextColor.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b0c942d2-ba93-4e49-bbd6-9bc7152d117a" Title="ModernCounter Methods" Url="html/Methods_T_Hummingbird_UI_ModernCounter.htm">
+        <HelpTOCNode Id="11d31930-17e3-41ec-9296-b68690f7c8e4" Title="ModernCounter Methods" Url="html/Methods_T_Hummingbird_UI_ModernCounter.htm">
           <HelpTOCNode Title="InitializeComponent Method " Url="html/M_Hummingbird_UI_ModernCounter_InitializeComponent.htm" />
         </HelpTOCNode>
+        <HelpTOCNode Id="df5c5973-6a9d-498a-8a88-d81fe645da84" Title="ModernCounter Fields" Url="html/Fields_T_Hummingbird_UI_ModernCounter.htm">
+          <HelpTOCNode Title="HeaderProperty Field" Url="html/F_Hummingbird_UI_ModernCounter_HeaderProperty.htm" />
+        </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e3248855-65de-461a-a3eb-0f8a0cba7645" Title="ModernLink Class" Url="html/T_Hummingbird_UI_ModernLink.htm">
+      <HelpTOCNode Id="1bcdd3de-58a6-4b6a-9f01-34bf12ecc6f2" Title="ModernLink Class" Url="html/T_Hummingbird_UI_ModernLink.htm">
         <HelpTOCNode Title="ModernLink Constructor " Url="html/M_Hummingbird_UI_ModernLink__ctor.htm" />
-        <HelpTOCNode Id="b2a274a4-8b99-4e7e-bf5a-72f31c046312" Title="ModernLink Properties" Url="html/Properties_T_Hummingbird_UI_ModernLink.htm">
+        <HelpTOCNode Id="927e0ba6-31cf-4aad-81af-2dea7dadeb8e" Title="ModernLink Properties" Url="html/Properties_T_Hummingbird_UI_ModernLink.htm">
           <HelpTOCNode Title="IconForegroundBrush Property " Url="html/P_Hummingbird_UI_ModernLink_IconForegroundBrush.htm" />
           <HelpTOCNode Title="IconKey Property " Url="html/P_Hummingbird_UI_ModernLink_IconKey.htm" />
           <HelpTOCNode Title="IconSize Property " Url="html/P_Hummingbird_UI_ModernLink_IconSize.htm" />
           <HelpTOCNode Title="Text Property " Url="html/P_Hummingbird_UI_ModernLink_Text.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="86b0274c-3bf5-47b4-b432-7f8d50f47320" Title="ModernLink Events" Url="html/Events_T_Hummingbird_UI_ModernLink.htm">
+        <HelpTOCNode Id="8867a00c-b9ca-4f3d-b61a-e852315e685f" Title="ModernLink Events" Url="html/Events_T_Hummingbird_UI_ModernLink.htm">
           <HelpTOCNode Title="Click Event" Url="html/E_Hummingbird_UI_ModernLink_Click.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="df80d82c-69a9-4dc0-820f-e820b568c7f9" Title="ModernLink Fields" Url="html/Fields_T_Hummingbird_UI_ModernLink.htm">
+        <HelpTOCNode Id="0c163842-953f-4e79-af7f-691b09286834" Title="ModernLink Fields" Url="html/Fields_T_Hummingbird_UI_ModernLink.htm">
           <HelpTOCNode Title="IconForegroundBrushProperty Field" Url="html/F_Hummingbird_UI_ModernLink_IconForegroundBrushProperty.htm" />
           <HelpTOCNode Title="IconKeyProperty Field" Url="html/F_Hummingbird_UI_ModernLink_IconKeyProperty.htm" />
           <HelpTOCNode Title="IconSizeProperty Field" Url="html/F_Hummingbird_UI_ModernLink_IconSizeProperty.htm" />
           <HelpTOCNode Title="TextProperty Field" Url="html/F_Hummingbird_UI_ModernLink_TextProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7f2a62c2-c8b4-4111-b24c-5102e0866c0e" Title="ModernMenuItem Class" Url="html/T_Hummingbird_UI_ModernMenuItem.htm">
+      <HelpTOCNode Id="4778bfce-7608-4f89-ab5b-251183b326bc" Title="ModernMenuItem Class" Url="html/T_Hummingbird_UI_ModernMenuItem.htm">
         <HelpTOCNode Title="ModernMenuItem Constructor " Url="html/M_Hummingbird_UI_ModernMenuItem__ctor.htm" />
-        <HelpTOCNode Id="23135542-1398-489e-8fa4-1c213916ebcc" Title="ModernMenuItem Properties" Url="html/Properties_T_Hummingbird_UI_ModernMenuItem.htm">
+        <HelpTOCNode Id="6e39cb2f-6122-4204-97dc-b89cd252f25b" Title="ModernMenuItem Properties" Url="html/Properties_T_Hummingbird_UI_ModernMenuItem.htm">
           <HelpTOCNode Title="ContentType Property " Url="html/P_Hummingbird_UI_ModernMenuItem_ContentType.htm" />
           <HelpTOCNode Title="Header Property " Url="html/P_Hummingbird_UI_ModernMenuItem_Header.htm" />
           <HelpTOCNode Title="IsSelected Property " Url="html/P_Hummingbird_UI_ModernMenuItem_IsSelected.htm" />
           <HelpTOCNode Title="Items Property " Url="html/P_Hummingbird_UI_ModernMenuItem_Items.htm" />
           <HelpTOCNode Title="Key Property " Url="html/P_Hummingbird_UI_ModernMenuItem_Key.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a4a97e46-16d3-4198-bec6-f1f61f727387" Title="ModernMenuItem Fields" Url="html/Fields_T_Hummingbird_UI_ModernMenuItem.htm">
+        <HelpTOCNode Id="66f27319-e9ff-4a59-8f0c-8fe50cca09d1" Title="ModernMenuItem Fields" Url="html/Fields_T_Hummingbird_UI_ModernMenuItem.htm">
           <HelpTOCNode Title="HeaderProperty Field" Url="html/F_Hummingbird_UI_ModernMenuItem_HeaderProperty.htm" />
           <HelpTOCNode Title="IsSelectedProperty Field" Url="html/F_Hummingbird_UI_ModernMenuItem_IsSelectedProperty.htm" />
           <HelpTOCNode Title="ItemsProperty Field" Url="html/F_Hummingbird_UI_ModernMenuItem_ItemsProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ca4289fd-9d4d-4c44-8030-861cd5dc6d8e" Title="ModernPresenter Class" Url="html/T_Hummingbird_UI_ModernPresenter.htm">
+      <HelpTOCNode Id="8aa96bc0-0750-48c9-a0a9-4a951000a781" Title="ModernPresenter Class" Url="html/T_Hummingbird_UI_ModernPresenter.htm">
         <HelpTOCNode Title="ModernPresenter Constructor " Url="html/M_Hummingbird_UI_ModernPresenter__ctor.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="fbc37e1d-7658-4b76-a7ad-e56b75fd9450" Title="ModernProgressBar Class" Url="html/T_Hummingbird_UI_ModernProgressBar.htm">
+      <HelpTOCNode Id="159f092d-60c7-460e-9600-d1a3381b4f04" Title="ModernProgressBar Class" Url="html/T_Hummingbird_UI_ModernProgressBar.htm">
         <HelpTOCNode Title="ModernProgressBar Constructor " Url="html/M_Hummingbird_UI_ModernProgressBar__ctor.htm" />
-        <HelpTOCNode Id="08cb4bf4-96e5-4d74-aa18-a020d5f393a1" Title="ModernProgressBar Methods" Url="html/Methods_T_Hummingbird_UI_ModernProgressBar.htm">
+        <HelpTOCNode Id="39bf36f6-1dde-4bf4-a519-79db9c70fa88" Title="ModernProgressBar Methods" Url="html/Methods_T_Hummingbird_UI_ModernProgressBar.htm">
           <HelpTOCNode Title="InitializeComponent Method " Url="html/M_Hummingbird_UI_ModernProgressBar_InitializeComponent.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6ea9a00b-61e2-4578-aac1-4a100cd86199" Title="ModernSwitch Class" Url="html/T_Hummingbird_UI_ModernSwitch.htm">
+      <HelpTOCNode Id="49dd1c7d-d77e-4671-9fe9-1dabb1e6bf96" Title="ModernSwitch Class" Url="html/T_Hummingbird_UI_ModernSwitch.htm">
         <HelpTOCNode Title="ModernSwitch Constructor " Url="html/M_Hummingbird_UI_ModernSwitch__ctor.htm" />
-        <HelpTOCNode Id="fd73af94-da29-4da6-a730-5f77391f7fb1" Title="ModernSwitch Properties" Url="html/Properties_T_Hummingbird_UI_ModernSwitch.htm">
+        <HelpTOCNode Id="35d01619-e8b4-4c50-ac69-76a17c1f7a97" Title="ModernSwitch Properties" Url="html/Properties_T_Hummingbird_UI_ModernSwitch.htm">
           <HelpTOCNode Title="CheckedText Property " Url="html/P_Hummingbird_UI_ModernSwitch_CheckedText.htm" />
           <HelpTOCNode Title="IsChecked Property " Url="html/P_Hummingbird_UI_ModernSwitch_IsChecked.htm" />
           <HelpTOCNode Title="UnCheckedText Property " Url="html/P_Hummingbird_UI_ModernSwitch_UnCheckedText.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="359f126b-cde2-4c35-b4f2-83287134aa6e" Title="ModernSwitch Events" Url="html/Events_T_Hummingbird_UI_ModernSwitch.htm">
+        <HelpTOCNode Id="489b1479-d7b5-46b2-bc9d-ea313a6c828c" Title="ModernSwitch Events" Url="html/Events_T_Hummingbird_UI_ModernSwitch.htm">
           <HelpTOCNode Title="IsCheckedChanged Event" Url="html/E_Hummingbird_UI_ModernSwitch_IsCheckedChanged.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ae368ef1-ccc8-4dd0-9a13-90339fb10f42" Title="ModernSwitch Fields" Url="html/Fields_T_Hummingbird_UI_ModernSwitch.htm">
+        <HelpTOCNode Id="46c30b82-fb83-4834-8838-6c6c5ed46ca8" Title="ModernSwitch Fields" Url="html/Fields_T_Hummingbird_UI_ModernSwitch.htm">
           <HelpTOCNode Title="CheckedTextProperty Field" Url="html/F_Hummingbird_UI_ModernSwitch_CheckedTextProperty.htm" />
           <HelpTOCNode Title="IsCheckedProperty Field" Url="html/F_Hummingbird_UI_ModernSwitch_IsCheckedProperty.htm" />
           <HelpTOCNode Title="UnCheckedTextProperty Field" Url="html/F_Hummingbird_UI_ModernSwitch_UnCheckedTextProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1f214de7-8fa0-4e6f-a1ed-afd895b7f732" Title="ModernTile Class" Url="html/T_Hummingbird_UI_ModernTile.htm">
+      <HelpTOCNode Id="bd481623-4701-416d-b5d9-082ec4fc7df4" Title="ModernTile Class" Url="html/T_Hummingbird_UI_ModernTile.htm">
         <HelpTOCNode Title="ModernTile Constructor " Url="html/M_Hummingbird_UI_ModernTile__ctor.htm" />
-        <HelpTOCNode Id="fe711b1c-982d-4239-ade3-7ad44315463e" Title="ModernTile Properties" Url="html/Properties_T_Hummingbird_UI_ModernTile.htm">
+        <HelpTOCNode Id="50b8c197-89c7-4739-8aec-09dae2a39269" Title="ModernTile Properties" Url="html/Properties_T_Hummingbird_UI_ModernTile.htm">
           <HelpTOCNode Title="EndColor Property " Url="html/P_Hummingbird_UI_ModernTile_EndColor.htm" />
           <HelpTOCNode Title="Header Property " Url="html/P_Hummingbird_UI_ModernTile_Header.htm" />
           <HelpTOCNode Title="Icon Property " Url="html/P_Hummingbird_UI_ModernTile_Icon.htm" />
           <HelpTOCNode Title="StartColor Property " Url="html/P_Hummingbird_UI_ModernTile_StartColor.htm" />
           <HelpTOCNode Title="UseGradient Property " Url="html/P_Hummingbird_UI_ModernTile_UseGradient.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f4144d3f-9150-4a63-ba03-d257cbacc09f" Title="ModernTile Fields" Url="html/Fields_T_Hummingbird_UI_ModernTile.htm">
+        <HelpTOCNode Id="d0e9d84b-2289-4739-a7f3-d0f0f3c03ff0" Title="ModernTile Fields" Url="html/Fields_T_Hummingbird_UI_ModernTile.htm">
           <HelpTOCNode Title="EndColorProperty Field" Url="html/F_Hummingbird_UI_ModernTile_EndColorProperty.htm" />
           <HelpTOCNode Title="HeaderProperty Field" Url="html/F_Hummingbird_UI_ModernTile_HeaderProperty.htm" />
           <HelpTOCNode Title="IconProperty Field" Url="html/F_Hummingbird_UI_ModernTile_IconProperty.htm" />
@@ -253,9 +262,9 @@
           <HelpTOCNode Title="UseGradientProperty Field" Url="html/F_Hummingbird_UI_ModernTile_UseGradientProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="b9c22402-089b-421a-a1f7-b5c65d67298d" Title="ModernWindow Class" Url="html/T_Hummingbird_UI_ModernWindow.htm">
+      <HelpTOCNode Id="be570727-143e-44bd-be55-0e307be142d6" Title="ModernWindow Class" Url="html/T_Hummingbird_UI_ModernWindow.htm">
         <HelpTOCNode Title="ModernWindow Constructor " Url="html/M_Hummingbird_UI_ModernWindow__ctor.htm" />
-        <HelpTOCNode Id="f014b761-9bee-44a1-acaa-c4f842b5844f" Title="ModernWindow Properties" Url="html/Properties_T_Hummingbird_UI_ModernWindow.htm">
+        <HelpTOCNode Id="e18217dd-1be7-41e1-92e4-d4a5bba035b9" Title="ModernWindow Properties" Url="html/Properties_T_Hummingbird_UI_ModernWindow.htm">
           <HelpTOCNode Title="BackstagePanel Property " Url="html/P_Hummingbird_UI_ModernWindow_BackstagePanel.htm" />
           <HelpTOCNode Title="CommandArea Property " Url="html/P_Hummingbird_UI_ModernWindow_CommandArea.htm" />
           <HelpTOCNode Title="DefaultStatusBar Property " Url="html/P_Hummingbird_UI_ModernWindow_DefaultStatusBar.htm" />
@@ -264,12 +273,12 @@
           <HelpTOCNode Title="MainMenu Property " Url="html/P_Hummingbird_UI_ModernWindow_MainMenu.htm" />
           <HelpTOCNode Title="StatusBar Property " Url="html/P_Hummingbird_UI_ModernWindow_StatusBar.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8c8c5359-0c33-4652-a6f7-4095eee6640a" Title="ModernWindow Methods" Url="html/Methods_T_Hummingbird_UI_ModernWindow.htm">
+        <HelpTOCNode Id="864d3e62-2ba2-492e-b4ef-f3eddbc0973f" Title="ModernWindow Methods" Url="html/Methods_T_Hummingbird_UI_ModernWindow.htm">
           <HelpTOCNode Title="ClearCache Method " Url="html/M_Hummingbird_UI_ModernWindow_ClearCache.htm" />
           <HelpTOCNode Title="NavigateTo Method " Url="html/M_Hummingbird_UI_ModernWindow_NavigateTo.htm" />
           <HelpTOCNode Title="ShowBackstage Method " Url="html/M_Hummingbird_UI_ModernWindow_ShowBackstage.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="58809bae-7cec-4a04-8c60-db849e0dad8e" Title="ModernWindow Fields" Url="html/Fields_T_Hummingbird_UI_ModernWindow.htm">
+        <HelpTOCNode Id="d9b94830-829a-45c3-88a3-7cf14ffb9af4" Title="ModernWindow Fields" Url="html/Fields_T_Hummingbird_UI_ModernWindow.htm">
           <HelpTOCNode Title="BackstagePanelProperty Field" Url="html/F_Hummingbird_UI_ModernWindow_BackstagePanelProperty.htm" />
           <HelpTOCNode Title="CommandAreaProperty Field" Url="html/F_Hummingbird_UI_ModernWindow_CommandAreaProperty.htm" />
           <HelpTOCNode Title="IsContentDetachableProperty Field" Url="html/F_Hummingbird_UI_ModernWindow_IsContentDetachableProperty.htm" />
@@ -278,76 +287,76 @@
           <HelpTOCNode Title="StatusBarProperty Field" Url="html/F_Hummingbird_UI_ModernWindow_StatusBarProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="49beed15-61f7-4ecd-aaf7-c83b6a9953d4" Title="MultiSelectComboBox Class" Url="html/T_Hummingbird_UI_MultiSelectComboBox.htm">
+      <HelpTOCNode Id="6084e0d4-834f-465d-aa53-7f5d08f6d32b" Title="MultiSelectComboBox Class" Url="html/T_Hummingbird_UI_MultiSelectComboBox.htm">
         <HelpTOCNode Title="MultiSelectComboBox Constructor " Url="html/M_Hummingbird_UI_MultiSelectComboBox__ctor.htm" />
-        <HelpTOCNode Id="766b0f07-71f2-4b4b-a4ed-3a2b416d3dc4" Title="MultiSelectComboBox Properties" Url="html/Properties_T_Hummingbird_UI_MultiSelectComboBox.htm">
+        <HelpTOCNode Id="1bef7e1c-6a66-4ad9-9110-d2a510398bfc" Title="MultiSelectComboBox Properties" Url="html/Properties_T_Hummingbird_UI_MultiSelectComboBox.htm">
           <HelpTOCNode Title="DefaultText Property " Url="html/P_Hummingbird_UI_MultiSelectComboBox_DefaultText.htm" />
           <HelpTOCNode Title="ItemsSource Property " Url="html/P_Hummingbird_UI_MultiSelectComboBox_ItemsSource.htm" />
           <HelpTOCNode Title="SelectedItems Property " Url="html/P_Hummingbird_UI_MultiSelectComboBox_SelectedItems.htm" />
           <HelpTOCNode Title="Text Property " Url="html/P_Hummingbird_UI_MultiSelectComboBox_Text.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c88be3f6-36b1-4d8b-bcce-9a15687d66f0" Title="MultiSelectComboBox Methods" Url="html/Methods_T_Hummingbird_UI_MultiSelectComboBox.htm">
+        <HelpTOCNode Id="1a047c4d-0730-4c2a-af44-f5a90baf69f1" Title="MultiSelectComboBox Methods" Url="html/Methods_T_Hummingbird_UI_MultiSelectComboBox.htm">
           <HelpTOCNode Title="InitializeComponent Method " Url="html/M_Hummingbird_UI_MultiSelectComboBox_InitializeComponent.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e5b4a487-9d8e-46f7-bada-5339d33937e1" Title="MultiSelectComboBox Events" Url="html/Events_T_Hummingbird_UI_MultiSelectComboBox.htm">
+        <HelpTOCNode Id="1a05f791-6a2b-4d9f-b577-7196700e8183" Title="MultiSelectComboBox Events" Url="html/Events_T_Hummingbird_UI_MultiSelectComboBox.htm">
           <HelpTOCNode Title="SelectedItemsChanged Event" Url="html/E_Hummingbird_UI_MultiSelectComboBox_SelectedItemsChanged.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="65cb01c5-ab3e-46d7-abae-4cb087891580" Title="MultiSelectComboBox Fields" Url="html/Fields_T_Hummingbird_UI_MultiSelectComboBox.htm">
+        <HelpTOCNode Id="defe1392-cfd4-4d4a-bd90-b132c6d19d8a" Title="MultiSelectComboBox Fields" Url="html/Fields_T_Hummingbird_UI_MultiSelectComboBox.htm">
           <HelpTOCNode Title="DefaultTextProperty Field" Url="html/F_Hummingbird_UI_MultiSelectComboBox_DefaultTextProperty.htm" />
           <HelpTOCNode Title="ItemsSource2Property Field" Url="html/F_Hummingbird_UI_MultiSelectComboBox_ItemsSource2Property.htm" />
           <HelpTOCNode Title="SelectedItemsProperty Field" Url="html/F_Hummingbird_UI_MultiSelectComboBox_SelectedItemsProperty.htm" />
           <HelpTOCNode Title="TextProperty Field" Url="html/F_Hummingbird_UI_MultiSelectComboBox_TextProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="93e90cd5-e639-4c5b-b75b-93b81251745e" Title="Node Class" Url="html/T_Hummingbird_UI_Node.htm">
+      <HelpTOCNode Id="af7dac1f-d825-4e44-956c-298ed2d95613" Title="Node Class" Url="html/T_Hummingbird_UI_Node.htm">
         <HelpTOCNode Title="Node Constructor " Url="html/M_Hummingbird_UI_Node__ctor.htm" />
-        <HelpTOCNode Id="efe02ec9-8a3f-4d2c-b1d8-3cb6a2a50994" Title="Node Properties" Url="html/Properties_T_Hummingbird_UI_Node.htm">
+        <HelpTOCNode Id="b2327131-b022-4402-963f-1a7d3c52eb36" Title="Node Properties" Url="html/Properties_T_Hummingbird_UI_Node.htm">
           <HelpTOCNode Title="IsSelected Property " Url="html/P_Hummingbird_UI_Node_IsSelected.htm" />
           <HelpTOCNode Title="Title Property " Url="html/P_Hummingbird_UI_Node_Title.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="58f1f01c-245e-4406-bf5f-80c53afaf2a6" Title="Node Methods" Url="html/Methods_T_Hummingbird_UI_Node.htm">
+        <HelpTOCNode Id="b9cb3e91-e0ef-4cc8-ae51-c87f3522406f" Title="Node Methods" Url="html/Methods_T_Hummingbird_UI_Node.htm">
           <HelpTOCNode Title="NotifyPropertyChanged Method " Url="html/M_Hummingbird_UI_Node_NotifyPropertyChanged.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2c7dc126-a22d-4690-9d92-c114391f1686" Title="Node Events" Url="html/Events_T_Hummingbird_UI_Node.htm">
+        <HelpTOCNode Id="af027fd6-a828-41b0-ab8b-e5a018470585" Title="Node Events" Url="html/Events_T_Hummingbird_UI_Node.htm">
           <HelpTOCNode Title="PropertyChanged Event" Url="html/E_Hummingbird_UI_Node_PropertyChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="NotificationLevel Enumeration" Url="html/T_Hummingbird_UI_NotificationLevel.htm" />
-      <HelpTOCNode Id="50db8719-8e45-4b79-ac84-1c8b41b30ae3" Title="ProgressBarSmoother Class" Url="html/T_Hummingbird_UI_ProgressBarSmoother.htm">
-        <HelpTOCNode Id="70eb669d-d934-4528-9de8-8938131120c5" Title="ProgressBarSmoother Methods" Url="html/Methods_T_Hummingbird_UI_ProgressBarSmoother.htm">
+      <HelpTOCNode Id="7e3da9ad-ccc1-4a2c-9cdd-26fad60bbbe0" Title="ProgressBarSmoother Class" Url="html/T_Hummingbird_UI_ProgressBarSmoother.htm">
+        <HelpTOCNode Id="96cfe0f5-d790-4240-82f1-40a0b78aeccc" Title="ProgressBarSmoother Methods" Url="html/Methods_T_Hummingbird_UI_ProgressBarSmoother.htm">
           <HelpTOCNode Title="GetValue Method " Url="html/M_Hummingbird_UI_ProgressBarSmoother_GetValue.htm" />
           <HelpTOCNode Title="SetValue Method " Url="html/M_Hummingbird_UI_ProgressBarSmoother_SetValue.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5aff2ead-370b-4666-933c-fd04b80e6e9b" Title="ProgressBarSmoother Fields" Url="html/Fields_T_Hummingbird_UI_ProgressBarSmoother.htm">
+        <HelpTOCNode Id="644909d0-7f30-48fd-89f1-8a2c12d7620c" Title="ProgressBarSmoother Fields" Url="html/Fields_T_Hummingbird_UI_ProgressBarSmoother.htm">
           <HelpTOCNode Title="ValueProperty Field" Url="html/F_Hummingbird_UI_ProgressBarSmoother_ValueProperty.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5f6648e2-3ced-4d33-b4c7-e8554aa62d9e" Title="ProgressBarSmoother Attached Properties" Url="html/AttachedProperties_T_Hummingbird_UI_ProgressBarSmoother.htm">
+        <HelpTOCNode Id="d70a15af-a8d2-46eb-bf9f-0e99a1ef39e6" Title="ProgressBarSmoother Attached Properties" Url="html/AttachedProperties_T_Hummingbird_UI_ProgressBarSmoother.htm">
           <HelpTOCNode Title="Value Attached Property" Url="html/P_Hummingbird_UI_ProgressBarSmoother_Value.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8f1c9f91-ed15-441c-8504-3ca31ceed04b" Title="SyncTreeViewItem Class" Url="html/T_Hummingbird_UI_SyncTreeViewItem.htm">
+      <HelpTOCNode Id="b05bd3db-0147-48f1-a38d-02f2f012d87d" Title="SyncTreeViewItem Class" Url="html/T_Hummingbird_UI_SyncTreeViewItem.htm">
         <HelpTOCNode Title="SyncTreeViewItem Constructor " Url="html/M_Hummingbird_UI_SyncTreeViewItem__ctor.htm" />
-        <HelpTOCNode Id="6c1c6505-d2db-4ed3-833d-62a6bfb4c6a0" Title="SyncTreeViewItem Properties" Url="html/Properties_T_Hummingbird_UI_SyncTreeViewItem.htm">
+        <HelpTOCNode Id="9720383b-1fdb-4556-ada5-9d898e66a3b5" Title="SyncTreeViewItem Properties" Url="html/Properties_T_Hummingbird_UI_SyncTreeViewItem.htm">
           <HelpTOCNode Title="IsSynced Property " Url="html/P_Hummingbird_UI_SyncTreeViewItem_IsSynced.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bbfb91bd-4106-4f9e-93f3-9c95a716d21c" Title="SyncTreeViewItem Fields" Url="html/Fields_T_Hummingbird_UI_SyncTreeViewItem.htm">
+        <HelpTOCNode Id="1856e900-e0ba-4487-a96f-ecce9ec06875" Title="SyncTreeViewItem Fields" Url="html/Fields_T_Hummingbird_UI_SyncTreeViewItem.htm">
           <HelpTOCNode Title="IsSyncedProperty Field" Url="html/F_Hummingbird_UI_SyncTreeViewItem_IsSyncedProperty.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7aa4da2b-7068-430f-ae3e-87a0c217ff30" Title="TextBlockAutoToolTip Class" Url="html/T_Hummingbird_UI_TextBlockAutoToolTip.htm">
-        <HelpTOCNode Id="be025891-4d31-4070-85ae-196ef78f0845" Title="TextBlockAutoToolTip Methods" Url="html/Methods_T_Hummingbird_UI_TextBlockAutoToolTip.htm">
+      <HelpTOCNode Id="bf71680f-ce90-499b-94dc-aa3098a00fa0" Title="TextBlockAutoToolTip Class" Url="html/T_Hummingbird_UI_TextBlockAutoToolTip.htm">
+        <HelpTOCNode Id="dbc9eb00-e442-4ba7-9c72-5c03e8b1d784" Title="TextBlockAutoToolTip Methods" Url="html/Methods_T_Hummingbird_UI_TextBlockAutoToolTip.htm">
           <HelpTOCNode Title="SetEnabled Method " Url="html/M_Hummingbird_UI_TextBlockAutoToolTip_SetEnabled.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="713d9d3c-01fc-4cfc-9b67-a73f3522831d" Title="TextBlockAutoToolTip Fields" Url="html/Fields_T_Hummingbird_UI_TextBlockAutoToolTip.htm">
+        <HelpTOCNode Id="84f34ac6-ff75-4535-9e6b-bc12e7345652" Title="TextBlockAutoToolTip Fields" Url="html/Fields_T_Hummingbird_UI_TextBlockAutoToolTip.htm">
           <HelpTOCNode Title="EnabledProperty Field" Url="html/F_Hummingbird_UI_TextBlockAutoToolTip_EnabledProperty.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="dff35869-acbd-4d4b-8fbb-51c659369a5a" Title="TextBlockAutoToolTip Attached Properties" Url="html/AttachedProperties_T_Hummingbird_UI_TextBlockAutoToolTip.htm">
+        <HelpTOCNode Id="cf35ea29-255e-4238-84e2-c8e94303faa6" Title="TextBlockAutoToolTip Attached Properties" Url="html/AttachedProperties_T_Hummingbird_UI_TextBlockAutoToolTip.htm">
           <HelpTOCNode Title="Enabled Attached Property" Url="html/P_Hummingbird_UI_TextBlockAutoToolTip_Enabled.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6fe0ea58-f393-43fe-bb5d-f158d91bd81d" Title="TreeViewItemExtender Class" Url="html/T_Hummingbird_UI_TreeViewItemExtender.htm">
+      <HelpTOCNode Id="28ed0704-0197-4f6d-9f20-6e3d6aa747dc" Title="TreeViewItemExtender Class" Url="html/T_Hummingbird_UI_TreeViewItemExtender.htm">
         <HelpTOCNode Title="TreeViewItemExtender Constructor " Url="html/M_Hummingbird_UI_TreeViewItemExtender__ctor.htm" />
-        <HelpTOCNode Id="bdb0f513-c5c4-4358-adf9-2963003c2202" Title="TreeViewItemExtender Methods" Url="html/Methods_T_Hummingbird_UI_TreeViewItemExtender.htm">
+        <HelpTOCNode Id="e28ea48d-506d-43e0-bbd4-74d6d3aac839" Title="TreeViewItemExtender Methods" Url="html/Methods_T_Hummingbird_UI_TreeViewItemExtender.htm">
           <HelpTOCNode Title="GetIsLastOne Method " Url="html/M_Hummingbird_UI_TreeViewItemExtender_GetIsLastOne.htm" />
           <HelpTOCNode Title="GetIsToggleButtonVisible Method " Url="html/M_Hummingbird_UI_TreeViewItemExtender_GetIsToggleButtonVisible.htm" />
           <HelpTOCNode Title="GetUseExtender Method " Url="html/M_Hummingbird_UI_TreeViewItemExtender_GetUseExtender.htm" />
@@ -355,63 +364,63 @@
           <HelpTOCNode Title="SetIsToggleButtonVisible Method " Url="html/M_Hummingbird_UI_TreeViewItemExtender_SetIsToggleButtonVisible.htm" />
           <HelpTOCNode Title="SetUseExtender Method " Url="html/M_Hummingbird_UI_TreeViewItemExtender_SetUseExtender.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b99e4241-7447-42ff-b7a8-6b5f50cf4c92" Title="TreeViewItemExtender Fields" Url="html/Fields_T_Hummingbird_UI_TreeViewItemExtender.htm">
+        <HelpTOCNode Id="45222458-3715-4222-8546-a9bffdbd0273" Title="TreeViewItemExtender Fields" Url="html/Fields_T_Hummingbird_UI_TreeViewItemExtender.htm">
           <HelpTOCNode Title="IsLastOneProperty Field" Url="html/F_Hummingbird_UI_TreeViewItemExtender_IsLastOneProperty.htm" />
           <HelpTOCNode Title="IsToggleButtonVisibleProperty Field" Url="html/F_Hummingbird_UI_TreeViewItemExtender_IsToggleButtonVisibleProperty.htm" />
           <HelpTOCNode Title="ItemExtenderProperty Field" Url="html/F_Hummingbird_UI_TreeViewItemExtender_ItemExtenderProperty.htm" />
           <HelpTOCNode Title="UseExtenderProperty Field" Url="html/F_Hummingbird_UI_TreeViewItemExtender_UseExtenderProperty.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c72966a3-921b-4978-a5f3-b5781778875f" Title="TreeViewItemExtender Attached Properties" Url="html/AttachedProperties_T_Hummingbird_UI_TreeViewItemExtender.htm">
+        <HelpTOCNode Id="b8647ce3-9425-41cc-b593-0bd94d9bae7a" Title="TreeViewItemExtender Attached Properties" Url="html/AttachedProperties_T_Hummingbird_UI_TreeViewItemExtender.htm">
           <HelpTOCNode Title="IsLastOne Attached Property" Url="html/P_Hummingbird_UI_TreeViewItemExtender_IsLastOne.htm" />
           <HelpTOCNode Title="IsToggleButtonVisible Attached Property" Url="html/P_Hummingbird_UI_TreeViewItemExtender_IsToggleButtonVisible.htm" />
           <HelpTOCNode Title="UseExtender Attached Property" Url="html/P_Hummingbird_UI_TreeViewItemExtender_UseExtender.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="98953cc6-0402-44ca-b96e-08e257ad8c38" Title="UIHelper Class" Url="html/T_Hummingbird_UI_UIHelper.htm">
-        <HelpTOCNode Id="20c7ef6a-c072-40c4-ae17-a4107e7b0d72" Title="UIHelper Methods" Url="html/Methods_T_Hummingbird_UI_UIHelper.htm">
+      <HelpTOCNode Id="529d9d58-3dcd-4844-a970-c40077fad3c3" Title="UIHelper Class" Url="html/T_Hummingbird_UI_UIHelper.htm">
+        <HelpTOCNode Id="027c5eb7-77f1-48ce-92a0-de952d3ab80d" Title="UIHelper Methods" Url="html/Methods_T_Hummingbird_UI_UIHelper.htm">
           <HelpTOCNode Title="ParentOfType(T) Method " Url="html/M_Hummingbird_UI_UIHelper_ParentOfType__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ee4af69a-db39-4d6e-8ddf-20be4657f058" Title="WatermarkService Class" Url="html/T_Hummingbird_UI_WatermarkService.htm">
-        <HelpTOCNode Id="a1e527ab-64d4-400a-a705-da9d27ca9e5d" Title="WatermarkService Methods" Url="html/Methods_T_Hummingbird_UI_WatermarkService.htm">
+      <HelpTOCNode Id="d22ffea6-9e19-4f4f-a86c-dd4f8869800b" Title="WatermarkService Class" Url="html/T_Hummingbird_UI_WatermarkService.htm">
+        <HelpTOCNode Id="6daaf7b3-d8a2-4ff0-a6e0-f47f980e4f7b" Title="WatermarkService Methods" Url="html/Methods_T_Hummingbird_UI_WatermarkService.htm">
           <HelpTOCNode Title="GetWatermark Method " Url="html/M_Hummingbird_UI_WatermarkService_GetWatermark.htm" />
           <HelpTOCNode Title="SetWatermark Method " Url="html/M_Hummingbird_UI_WatermarkService_SetWatermark.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="02d91595-023b-4312-8da8-ed67210649f4" Title="WatermarkService Fields" Url="html/Fields_T_Hummingbird_UI_WatermarkService.htm">
+        <HelpTOCNode Id="94d495e3-8c3f-4aba-9094-645f5d5c0cd0" Title="WatermarkService Fields" Url="html/Fields_T_Hummingbird_UI_WatermarkService.htm">
           <HelpTOCNode Title="WatermarkProperty Field" Url="html/F_Hummingbird_UI_WatermarkService_WatermarkProperty.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="668045aa-ebdf-4804-942a-08c6d86811a9" Title="WatermarkService Attached Properties" Url="html/AttachedProperties_T_Hummingbird_UI_WatermarkService.htm">
+        <HelpTOCNode Id="b961a129-e34e-4b66-a52b-51bb8962d342" Title="WatermarkService Attached Properties" Url="html/AttachedProperties_T_Hummingbird_UI_WatermarkService.htm">
           <HelpTOCNode Title="Watermark Attached Property" Url="html/P_Hummingbird_UI_WatermarkService_Watermark.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="WindowBorderType Enumeration" Url="html/T_Hummingbird_UI_WindowBorderType.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="0d07cc29-666c-4d97-a6ae-25e80869c802" Title="Hummingbird.UI.Converters" Url="html/N_Hummingbird_UI_Converters.htm">
-      <HelpTOCNode Id="ce0dcfc5-57e3-4685-a496-fd99a4d3343a" Title="BooleanToVisibilityConverterReversed Class" Url="html/T_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed.htm">
+    <HelpTOCNode Id="475b26a6-6268-4b2c-9d70-f2c5d24816ab" Title="Hummingbird.UI.Converters" Url="html/N_Hummingbird_UI_Converters.htm">
+      <HelpTOCNode Id="bac60c8a-8ade-4de8-b110-e829878cf107" Title="BooleanToVisibilityConverterReversed Class" Url="html/T_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed.htm">
         <HelpTOCNode Title="BooleanToVisibilityConverterReversed Constructor " Url="html/M_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed__ctor.htm" />
-        <HelpTOCNode Id="95f2ab6e-5057-48fa-9d68-1fe4f1112a89" Title="BooleanToVisibilityConverterReversed Methods" Url="html/Methods_T_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed.htm">
+        <HelpTOCNode Id="b41b67f3-706e-4c8a-a85b-2aacd8dfcace" Title="BooleanToVisibilityConverterReversed Methods" Url="html/Methods_T_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed.htm">
           <HelpTOCNode Title="Convert Method " Url="html/M_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed_Convert.htm" />
           <HelpTOCNode Title="ConvertBack Method " Url="html/M_Hummingbird_UI_Converters_BooleanToVisibilityConverterReversed_ConvertBack.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="13c0829b-1342-41b6-afaf-9f928d7d8051" Title="IntToVisibilityConverterReversed Class" Url="html/T_Hummingbird_UI_Converters_IntToVisibilityConverterReversed.htm">
+      <HelpTOCNode Id="e88dd1eb-d86e-4aba-857c-08dd57e2b324" Title="IntToVisibilityConverterReversed Class" Url="html/T_Hummingbird_UI_Converters_IntToVisibilityConverterReversed.htm">
         <HelpTOCNode Title="IntToVisibilityConverterReversed Constructor " Url="html/M_Hummingbird_UI_Converters_IntToVisibilityConverterReversed__ctor.htm" />
-        <HelpTOCNode Id="d9a382d9-8ab6-4cef-89c8-989c5f89f101" Title="IntToVisibilityConverterReversed Methods" Url="html/Methods_T_Hummingbird_UI_Converters_IntToVisibilityConverterReversed.htm">
+        <HelpTOCNode Id="beb888a8-2996-4aec-bba2-49b35e57a983" Title="IntToVisibilityConverterReversed Methods" Url="html/Methods_T_Hummingbird_UI_Converters_IntToVisibilityConverterReversed.htm">
           <HelpTOCNode Title="Convert Method " Url="html/M_Hummingbird_UI_Converters_IntToVisibilityConverterReversed_Convert.htm" />
           <HelpTOCNode Title="ConvertBack Method " Url="html/M_Hummingbird_UI_Converters_IntToVisibilityConverterReversed_ConvertBack.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="edcb6861-f15f-490e-aff7-2d73764d15e1" Title="StringToIntArrayTypeConverter Class" Url="html/T_Hummingbird_UI_Converters_StringToIntArrayTypeConverter.htm">
+      <HelpTOCNode Id="76e6b762-8a7e-4123-95eb-292f1ca47ade" Title="StringToIntArrayTypeConverter Class" Url="html/T_Hummingbird_UI_Converters_StringToIntArrayTypeConverter.htm">
         <HelpTOCNode Title="StringToIntArrayTypeConverter Constructor " Url="html/M_Hummingbird_UI_Converters_StringToIntArrayTypeConverter__ctor.htm" />
-        <HelpTOCNode Id="336c9abb-2c14-4870-b054-9820f66b2cc2" Title="StringToIntArrayTypeConverter Methods" Url="html/Methods_T_Hummingbird_UI_Converters_StringToIntArrayTypeConverter.htm">
+        <HelpTOCNode Id="2b24cac4-9dd9-4775-97e4-f9c5839916b8" Title="StringToIntArrayTypeConverter Methods" Url="html/Methods_T_Hummingbird_UI_Converters_StringToIntArrayTypeConverter.htm">
           <HelpTOCNode Title="CanConvertFrom Method " Url="html/M_Hummingbird_UI_Converters_StringToIntArrayTypeConverter_CanConvertFrom.htm" />
           <HelpTOCNode Title="ConvertFrom Method " Url="html/M_Hummingbird_UI_Converters_StringToIntArrayTypeConverter_ConvertFrom.htm" />
           <HelpTOCNode Title="ConvertTo Method " Url="html/M_Hummingbird_UI_Converters_StringToIntArrayTypeConverter_ConvertTo.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9dbe140d-2915-4031-b807-892b26e48978" Title="StringToResourceConverter Class" Url="html/T_Hummingbird_UI_Converters_StringToResourceConverter.htm">
+      <HelpTOCNode Id="eada633f-cb21-43d3-9920-66811dd3f5dd" Title="StringToResourceConverter Class" Url="html/T_Hummingbird_UI_Converters_StringToResourceConverter.htm">
         <HelpTOCNode Title="StringToResourceConverter Constructor " Url="html/M_Hummingbird_UI_Converters_StringToResourceConverter__ctor.htm" />
-        <HelpTOCNode Id="0694f7c1-5998-40d0-976f-2f933523b603" Title="StringToResourceConverter Methods" Url="html/Methods_T_Hummingbird_UI_Converters_StringToResourceConverter.htm">
+        <HelpTOCNode Id="a4a53979-d335-4a74-8ba0-4a44f59a17ab" Title="StringToResourceConverter Methods" Url="html/Methods_T_Hummingbird_UI_Converters_StringToResourceConverter.htm">
           <HelpTOCNode Title="Convert Method " Url="html/M_Hummingbird_UI_Converters_StringToResourceConverter_Convert.htm" />
           <HelpTOCNode Title="ConvertBack Method " Url="html/M_Hummingbird_UI_Converters_StringToResourceConverter_ConvertBack.htm" />
         </HelpTOCNode>

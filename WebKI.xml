@@ -66,6 +66,12 @@
   <HelpKINode Title="BasicWindow.ShowInformation method" Url="html/M_Hummingbird_UI_BasicWindow_ShowInformation.htm" />
   <HelpKINode Title="BasicWindow.ShowMessageBox method" Url="html/M_Hummingbird_UI_BasicWindow_ShowMessageBox.htm" />
   <HelpKINode Title="BasicWindow.ShowToastNotification method" Url="html/M_Hummingbird_UI_BasicWindow_ShowToastNotification.htm" />
+  <HelpKINode Title="BasicWindow.SideBar property" Url="html/P_Hummingbird_UI_BasicWindow_SideBar.htm" />
+  <HelpKINode Title="BasicWindow.SideBarProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarProperty.htm" />
+  <HelpKINode Title="BasicWindow.SideBarTitle property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarTitle.htm" />
+  <HelpKINode Title="BasicWindow.SideBarTitleProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarTitleProperty.htm" />
+  <HelpKINode Title="BasicWindow.SideBarVisibility property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarVisibility.htm" />
+  <HelpKINode Title="BasicWindow.SideBarVisibilityProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarVisibilityProperty.htm" />
   <HelpKINode Title="BasicWindow.UpdateIconBackground method" Url="html/M_Hummingbird_UI_BasicWindow_UpdateIconBackground.htm" />
   <HelpKINode Title="BasicWindow.WindowStatus property" Url="html/P_Hummingbird_UI_BasicWindow_WindowStatus.htm" />
   <HelpKINode Title="BasicWindow.WindowStatusProperty field" Url="html/F_Hummingbird_UI_BasicWindow_WindowStatusProperty.htm" />
@@ -175,6 +181,7 @@
   </HelpKINode>
   <HelpKINode Title="HeaderProperty field">
     <HelpKINode Title="IconCheckBox.HeaderProperty Field" Url="html/F_Hummingbird_UI_IconCheckBox_HeaderProperty.htm" />
+    <HelpKINode Title="ModernCounter.HeaderProperty Field" Url="html/F_Hummingbird_UI_ModernCounter_HeaderProperty.htm" />
     <HelpKINode Title="ModernMenuItem.HeaderProperty Field" Url="html/F_Hummingbird_UI_ModernMenuItem_HeaderProperty.htm" />
     <HelpKINode Title="ModernTile.HeaderProperty Field" Url="html/F_Hummingbird_UI_ModernTile_HeaderProperty.htm" />
   </HelpKINode>
@@ -339,12 +346,14 @@
   <HelpKINode Title="ModernCounter class">
     <HelpKINode Title="ModernCounter Class" Url="html/T_Hummingbird_UI_ModernCounter.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernCounter__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernCounter.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ModernCounter.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ModernCounter.htm" />
   </HelpKINode>
   <HelpKINode Title="ModernCounter.Data property" Url="html/P_Hummingbird_UI_ModernCounter_Data.htm" />
   <HelpKINode Title="ModernCounter.DisplayNumber property" Url="html/P_Hummingbird_UI_ModernCounter_DisplayNumber.htm" />
   <HelpKINode Title="ModernCounter.Header property" Url="html/P_Hummingbird_UI_ModernCounter_Header.htm" />
+  <HelpKINode Title="ModernCounter.HeaderProperty field" Url="html/F_Hummingbird_UI_ModernCounter_HeaderProperty.htm" />
   <HelpKINode Title="ModernCounter.InitializeComponent method" Url="html/M_Hummingbird_UI_ModernCounter_InitializeComponent.htm" />
   <HelpKINode Title="ModernCounter.ModernCounter constructor" Url="html/M_Hummingbird_UI_ModernCounter__ctor.htm" />
   <HelpKINode Title="ModernCounter.TextColor property" Url="html/P_Hummingbird_UI_ModernCounter_TextColor.htm" />
@@ -521,6 +530,12 @@
     <HelpKINode Title="BasicWindow.ShowToastNotification Method " Url="html/M_Hummingbird_UI_BasicWindow_ShowToastNotification.htm" />
     <HelpKINode Title="ModernContent.ShowToastNotification Method " Url="html/M_Hummingbird_UI_ModernContent_ShowToastNotification.htm" />
   </HelpKINode>
+  <HelpKINode Title="SideBar property" Url="html/P_Hummingbird_UI_BasicWindow_SideBar.htm" />
+  <HelpKINode Title="SideBarProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarProperty.htm" />
+  <HelpKINode Title="SideBarTitle property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarTitle.htm" />
+  <HelpKINode Title="SideBarTitleProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarTitleProperty.htm" />
+  <HelpKINode Title="SideBarVisibility property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarVisibility.htm" />
+  <HelpKINode Title="SideBarVisibilityProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarVisibilityProperty.htm" />
   <HelpKINode Title="StartColor property" Url="html/P_Hummingbird_UI_ModernTile_StartColor.htm" />
   <HelpKINode Title="StartColorProperty field" Url="html/F_Hummingbird_UI_ModernTile_StartColorProperty.htm" />
   <HelpKINode Title="StatusBar property">
