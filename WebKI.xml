@@ -135,6 +135,7 @@
   <HelpKINode Title="Description property" Url="html/P_Hummingbird_UI_IconCheckBox_Description.htm" />
   <HelpKINode Title="DescriptionProperty field" Url="html/F_Hummingbird_UI_IconCheckBox_DescriptionProperty.htm" />
   <HelpKINode Title="DetachedName property" Url="html/P_Hummingbird_UI_ModernContent_DetachedName.htm" />
+  <HelpKINode Title="DetachedNameProperty field" Url="html/F_Hummingbird_UI_ModernContent_DetachedNameProperty.htm" />
   <HelpKINode Title="DisplayNumber property" Url="html/P_Hummingbird_UI_ModernCounter_DisplayNumber.htm" />
   <HelpKINode Title="Dispose method">
     <HelpKINode Title="AppBarButton.Dispose Method " Url="html/Overload_Hummingbird_UI_AppBarButton_Dispose.htm" />
@@ -331,6 +332,7 @@
   <HelpKINode Title="ModernContent.CommandArea property" Url="html/P_Hummingbird_UI_ModernContent_CommandArea.htm" />
   <HelpKINode Title="ModernContent.ContentChanged property" Url="html/P_Hummingbird_UI_ModernContent_ContentChanged.htm" />
   <HelpKINode Title="ModernContent.DetachedName property" Url="html/P_Hummingbird_UI_ModernContent_DetachedName.htm" />
+  <HelpKINode Title="ModernContent.DetachedNameProperty field" Url="html/F_Hummingbird_UI_ModernContent_DetachedNameProperty.htm" />
   <HelpKINode Title="ModernContent.Dispose method" Url="html/Overload_Hummingbird_UI_ModernContent_Dispose.htm" />
   <HelpKINode Title="ModernContent.HasLoaded property" Url="html/P_Hummingbird_UI_ModernContent_HasLoaded.htm" />
   <HelpKINode Title="ModernContent.HasNoValidationError method" Url="html/M_Hummingbird_UI_ModernContent_HasNoValidationError.htm" />
