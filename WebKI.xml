@@ -67,6 +67,10 @@
   <HelpKINode Title="BasicWindow.ShowMessageBox method" Url="html/M_Hummingbird_UI_BasicWindow_ShowMessageBox.htm" />
   <HelpKINode Title="BasicWindow.ShowToastNotification method" Url="html/M_Hummingbird_UI_BasicWindow_ShowToastNotification.htm" />
   <HelpKINode Title="BasicWindow.SideBar property" Url="html/P_Hummingbird_UI_BasicWindow_SideBar.htm" />
+  <HelpKINode Title="BasicWindow.SideBarMaxWidth property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarMaxWidth.htm" />
+  <HelpKINode Title="BasicWindow.SideBarMaxWidthProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarMaxWidthProperty.htm" />
+  <HelpKINode Title="BasicWindow.SideBarMinWidth property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarMinWidth.htm" />
+  <HelpKINode Title="BasicWindow.SideBarMinWidthProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarMinWidthProperty.htm" />
   <HelpKINode Title="BasicWindow.SideBarProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarProperty.htm" />
   <HelpKINode Title="BasicWindow.SideBarTitle property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarTitle.htm" />
   <HelpKINode Title="BasicWindow.SideBarTitleProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarTitleProperty.htm" />
@@ -291,7 +295,10 @@
   <HelpKINode Title="IsContentDetachableProperty field" Url="html/F_Hummingbird_UI_ModernWindow_IsContentDetachableProperty.htm" />
   <HelpKINode Title="IsContentDetached property" Url="html/P_Hummingbird_UI_ModernWindow_IsContentDetached.htm" />
   <HelpKINode Title="IsContentDetachedProperty field" Url="html/F_Hummingbird_UI_ModernWindow_IsContentDetachedProperty.htm" />
-  <HelpKINode Title="IsDarkTheme property" Url="html/P_Hummingbird_UI_BasicWindow_IsDarkTheme.htm" />
+  <HelpKINode Title="IsDarkTheme property">
+    <HelpKINode Title="BasicWindow.IsDarkTheme Property " Url="html/P_Hummingbird_UI_BasicWindow_IsDarkTheme.htm" />
+    <HelpKINode Title="ModernContent.IsDarkTheme Property " Url="html/P_Hummingbird_UI_ModernContent_IsDarkTheme.htm" />
+  </HelpKINode>
   <HelpKINode Title="IsDetachable property" Url="html/P_Hummingbird_UI_ModernContent_IsDetachable.htm" />
   <HelpKINode Title="IsDetachableProperty field" Url="html/F_Hummingbird_UI_ModernContent_IsDetachableProperty.htm" />
   <HelpKINode Title="IsLastOne attached property" Url="html/P_Hummingbird_UI_TreeViewItemExtender_IsLastOne.htm" />
@@ -336,6 +343,7 @@
   <HelpKINode Title="ModernContent.Dispose method" Url="html/Overload_Hummingbird_UI_ModernContent_Dispose.htm" />
   <HelpKINode Title="ModernContent.HasLoaded property" Url="html/P_Hummingbird_UI_ModernContent_HasLoaded.htm" />
   <HelpKINode Title="ModernContent.HasNoValidationError method" Url="html/M_Hummingbird_UI_ModernContent_HasNoValidationError.htm" />
+  <HelpKINode Title="ModernContent.IsDarkTheme property" Url="html/P_Hummingbird_UI_ModernContent_IsDarkTheme.htm" />
   <HelpKINode Title="ModernContent.IsDetachable property" Url="html/P_Hummingbird_UI_ModernContent_IsDetachable.htm" />
   <HelpKINode Title="ModernContent.IsDetachableProperty field" Url="html/F_Hummingbird_UI_ModernContent_IsDetachableProperty.htm" />
   <HelpKINode Title="ModernContent.ModernContent constructor" Url="html/Overload_Hummingbird_UI_ModernContent__ctor.htm" />
@@ -533,6 +541,10 @@
     <HelpKINode Title="ModernContent.ShowToastNotification Method " Url="html/M_Hummingbird_UI_ModernContent_ShowToastNotification.htm" />
   </HelpKINode>
   <HelpKINode Title="SideBar property" Url="html/P_Hummingbird_UI_BasicWindow_SideBar.htm" />
+  <HelpKINode Title="SideBarMaxWidth property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarMaxWidth.htm" />
+  <HelpKINode Title="SideBarMaxWidthProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarMaxWidthProperty.htm" />
+  <HelpKINode Title="SideBarMinWidth property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarMinWidth.htm" />
+  <HelpKINode Title="SideBarMinWidthProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarMinWidthProperty.htm" />
   <HelpKINode Title="SideBarProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarProperty.htm" />
   <HelpKINode Title="SideBarTitle property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarTitle.htm" />
   <HelpKINode Title="SideBarTitleProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarTitleProperty.htm" />
