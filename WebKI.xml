@@ -125,6 +125,8 @@
   </HelpKINode>
   <HelpKINode Title="ConvertFrom method" Url="html/M_Hummingbird_UI_Converters_StringToIntArrayTypeConverter_ConvertFrom.htm" />
   <HelpKINode Title="ConvertTo method" Url="html/M_Hummingbird_UI_Converters_StringToIntArrayTypeConverter_ConvertTo.htm" />
+  <HelpKINode Title="CornerRadius property" Url="html/P_Hummingbird_UI_ModernTile_CornerRadius.htm" />
+  <HelpKINode Title="CornerRadiusProperty field" Url="html/F_Hummingbird_UI_ModernTile_CornerRadiusProperty.htm" />
   <HelpKINode Title="DarkBackground property" Url="html/P_Hummingbird_UI_BasicWindow_DarkBackground.htm" />
   <HelpKINode Title="DarkIcon property" Url="html/P_Hummingbird_UI_BasicWindow_DarkIcon.htm" />
   <HelpKINode Title="Data property" Url="html/P_Hummingbird_UI_ModernCounter_Data.htm" />
@@ -136,8 +138,14 @@
   <HelpKINode Title="DefaultStyle property" Url="html/P_Hummingbird_UI_BasicWindow_DefaultStyle.htm" />
   <HelpKINode Title="DefaultText property" Url="html/P_Hummingbird_UI_MultiSelectComboBox_DefaultText.htm" />
   <HelpKINode Title="DefaultTextProperty field" Url="html/F_Hummingbird_UI_MultiSelectComboBox_DefaultTextProperty.htm" />
-  <HelpKINode Title="Description property" Url="html/P_Hummingbird_UI_IconCheckBox_Description.htm" />
-  <HelpKINode Title="DescriptionProperty field" Url="html/F_Hummingbird_UI_IconCheckBox_DescriptionProperty.htm" />
+  <HelpKINode Title="Description property">
+    <HelpKINode Title="IconCheckBox.Description Property " Url="html/P_Hummingbird_UI_IconCheckBox_Description.htm" />
+    <HelpKINode Title="ModernLink.Description Property " Url="html/P_Hummingbird_UI_ModernLink_Description.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DescriptionProperty field">
+    <HelpKINode Title="IconCheckBox.DescriptionProperty Field" Url="html/F_Hummingbird_UI_IconCheckBox_DescriptionProperty.htm" />
+    <HelpKINode Title="ModernLink.DescriptionProperty Field" Url="html/F_Hummingbird_UI_ModernLink_DescriptionProperty.htm" />
+  </HelpKINode>
   <HelpKINode Title="DetachedName property" Url="html/P_Hummingbird_UI_ModernContent_DetachedName.htm" />
   <HelpKINode Title="DetachedNameProperty field" Url="html/F_Hummingbird_UI_ModernContent_DetachedNameProperty.htm" />
   <HelpKINode Title="DisplayNumber property" Url="html/P_Hummingbird_UI_ModernCounter_DisplayNumber.htm" />
@@ -375,6 +383,8 @@
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ModernLink.htm" />
   </HelpKINode>
   <HelpKINode Title="ModernLink.Click event" Url="html/E_Hummingbird_UI_ModernLink_Click.htm" />
+  <HelpKINode Title="ModernLink.Description property" Url="html/P_Hummingbird_UI_ModernLink_Description.htm" />
+  <HelpKINode Title="ModernLink.DescriptionProperty field" Url="html/F_Hummingbird_UI_ModernLink_DescriptionProperty.htm" />
   <HelpKINode Title="ModernLink.IconForegroundBrush property" Url="html/P_Hummingbird_UI_ModernLink_IconForegroundBrush.htm" />
   <HelpKINode Title="ModernLink.IconForegroundBrushProperty field" Url="html/F_Hummingbird_UI_ModernLink_IconForegroundBrushProperty.htm" />
   <HelpKINode Title="ModernLink.IconKey property" Url="html/P_Hummingbird_UI_ModernLink_IconKey.htm" />
@@ -432,6 +442,8 @@
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernTile.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ModernTile.htm" />
   </HelpKINode>
+  <HelpKINode Title="ModernTile.CornerRadius property" Url="html/P_Hummingbird_UI_ModernTile_CornerRadius.htm" />
+  <HelpKINode Title="ModernTile.CornerRadiusProperty field" Url="html/F_Hummingbird_UI_ModernTile_CornerRadiusProperty.htm" />
   <HelpKINode Title="ModernTile.EndColor property" Url="html/P_Hummingbird_UI_ModernTile_EndColor.htm" />
   <HelpKINode Title="ModernTile.EndColorProperty field" Url="html/F_Hummingbird_UI_ModernTile_EndColorProperty.htm" />
   <HelpKINode Title="ModernTile.Header property" Url="html/P_Hummingbird_UI_ModernTile_Header.htm" />
