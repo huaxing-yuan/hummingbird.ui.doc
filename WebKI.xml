@@ -30,6 +30,13 @@
   <HelpKINode Title="AppBarIcon.IconKeyProperty field" Url="html/F_Hummingbird_UI_AppBarIcon_IconKeyProperty.htm" />
   <HelpKINode Title="AppBarIcon.IsCircleVisible property" Url="html/P_Hummingbird_UI_AppBarIcon_IsCircleVisible.htm" />
   <HelpKINode Title="AppBarIcon.IsCircleVisibleProperty field" Url="html/F_Hummingbird_UI_AppBarIcon_IsCircleVisibleProperty.htm" />
+  <HelpKINode Title="AvatarBrush property" Url="html/P_Hummingbird_UI_ModernWindow_AvatarBrush.htm" />
+  <HelpKINode Title="AvatarBrushProperty field" Url="html/F_Hummingbird_UI_ModernWindow_AvatarBrushProperty.htm" />
+  <HelpKINode Title="AvatarClicked event" Url="html/E_Hummingbird_UI_ModernWindow_AvatarClicked.htm" />
+  <HelpKINode Title="AvatarSize property" Url="html/P_Hummingbird_UI_ModernWindow_AvatarSize.htm" />
+  <HelpKINode Title="AvatarSizeProperty field" Url="html/F_Hummingbird_UI_ModernWindow_AvatarSizeProperty.htm" />
+  <HelpKINode Title="AvatarText property" Url="html/P_Hummingbird_UI_ModernWindow_AvatarText.htm" />
+  <HelpKINode Title="AvatarTextProperty field" Url="html/F_Hummingbird_UI_ModernWindow_AvatarTextProperty.htm" />
   <HelpKINode Title="BackstagePanel property" Url="html/P_Hummingbird_UI_ModernWindow_BackstagePanel.htm" />
   <HelpKINode Title="BackstagePanelProperty field" Url="html/F_Hummingbird_UI_ModernWindow_BackstagePanelProperty.htm" />
   <HelpKINode Title="Bad enumeration member" Url="html/T_Hummingbird_UI_WindowBorderType.htm" />
@@ -278,6 +285,8 @@
   <HelpKINode Title="IntToVisibilityConverterReversed.Convert method" Url="html/M_Hummingbird_UI_Converters_IntToVisibilityConverterReversed_Convert.htm" />
   <HelpKINode Title="IntToVisibilityConverterReversed.ConvertBack method" Url="html/M_Hummingbird_UI_Converters_IntToVisibilityConverterReversed_ConvertBack.htm" />
   <HelpKINode Title="IntToVisibilityConverterReversed.IntToVisibilityConverterReversed constructor" Url="html/M_Hummingbird_UI_Converters_IntToVisibilityConverterReversed__ctor.htm" />
+  <HelpKINode Title="IsAvatarVisible property" Url="html/P_Hummingbird_UI_ModernWindow_IsAvatarVisible.htm" />
+  <HelpKINode Title="IsAvatarVisibleProperty field" Url="html/F_Hummingbird_UI_ModernWindow_IsAvatarVisibleProperty.htm" />
   <HelpKINode Title="IsBusy property" Url="html/P_Hummingbird_UI_BasicWindow_IsBusy.htm" />
   <HelpKINode Title="IsBusyProperty field" Url="html/F_Hummingbird_UI_BasicWindow_IsBusyProperty.htm" />
   <HelpKINode Title="IsChecked property">
@@ -311,6 +320,8 @@
   <HelpKINode Title="IsDetachableProperty field" Url="html/F_Hummingbird_UI_ModernContent_IsDetachableProperty.htm" />
   <HelpKINode Title="IsLastOne attached property" Url="html/P_Hummingbird_UI_TreeViewItemExtender_IsLastOne.htm" />
   <HelpKINode Title="IsLastOneProperty field" Url="html/F_Hummingbird_UI_TreeViewItemExtender_IsLastOneProperty.htm" />
+  <HelpKINode Title="IsScrollBarHidden property" Url="html/P_Hummingbird_UI_ModernPresenter_IsScrollBarHidden.htm" />
+  <HelpKINode Title="IsScrollBarHiddenProperty field" Url="html/F_Hummingbird_UI_ModernPresenter_IsScrollBarHiddenProperty.htm" />
   <HelpKINode Title="IsSelected property">
     <HelpKINode Title="ModernMenuItem.IsSelected Property " Url="html/P_Hummingbird_UI_ModernMenuItem_IsSelected.htm" />
     <HelpKINode Title="Node.IsSelected Property " Url="html/P_Hummingbird_UI_Node_IsSelected.htm" />
@@ -412,7 +423,11 @@
   <HelpKINode Title="ModernPresenter class">
     <HelpKINode Title="ModernPresenter Class" Url="html/T_Hummingbird_UI_ModernPresenter.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernPresenter__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernPresenter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ModernPresenter.htm" />
   </HelpKINode>
+  <HelpKINode Title="ModernPresenter.IsScrollBarHidden property" Url="html/P_Hummingbird_UI_ModernPresenter_IsScrollBarHidden.htm" />
+  <HelpKINode Title="ModernPresenter.IsScrollBarHiddenProperty field" Url="html/F_Hummingbird_UI_ModernPresenter_IsScrollBarHiddenProperty.htm" />
   <HelpKINode Title="ModernPresenter.ModernPresenter constructor" Url="html/M_Hummingbird_UI_ModernPresenter__ctor.htm" />
   <HelpKINode Title="ModernProgressBar class">
     <HelpKINode Title="ModernProgressBar Class" Url="html/T_Hummingbird_UI_ModernProgressBar.htm" />
@@ -458,16 +473,26 @@
   <HelpKINode Title="ModernWindow class">
     <HelpKINode Title="ModernWindow Class" Url="html/T_Hummingbird_UI_ModernWindow.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernWindow__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Hummingbird_UI_ModernWindow.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernWindow.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ModernWindow.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ModernWindow.htm" />
   </HelpKINode>
+  <HelpKINode Title="ModernWindow.AvatarBrush property" Url="html/P_Hummingbird_UI_ModernWindow_AvatarBrush.htm" />
+  <HelpKINode Title="ModernWindow.AvatarBrushProperty field" Url="html/F_Hummingbird_UI_ModernWindow_AvatarBrushProperty.htm" />
+  <HelpKINode Title="ModernWindow.AvatarClicked event" Url="html/E_Hummingbird_UI_ModernWindow_AvatarClicked.htm" />
+  <HelpKINode Title="ModernWindow.AvatarSize property" Url="html/P_Hummingbird_UI_ModernWindow_AvatarSize.htm" />
+  <HelpKINode Title="ModernWindow.AvatarSizeProperty field" Url="html/F_Hummingbird_UI_ModernWindow_AvatarSizeProperty.htm" />
+  <HelpKINode Title="ModernWindow.AvatarText property" Url="html/P_Hummingbird_UI_ModernWindow_AvatarText.htm" />
+  <HelpKINode Title="ModernWindow.AvatarTextProperty field" Url="html/F_Hummingbird_UI_ModernWindow_AvatarTextProperty.htm" />
   <HelpKINode Title="ModernWindow.BackstagePanel property" Url="html/P_Hummingbird_UI_ModernWindow_BackstagePanel.htm" />
   <HelpKINode Title="ModernWindow.BackstagePanelProperty field" Url="html/F_Hummingbird_UI_ModernWindow_BackstagePanelProperty.htm" />
   <HelpKINode Title="ModernWindow.ClearCache method" Url="html/M_Hummingbird_UI_ModernWindow_ClearCache.htm" />
   <HelpKINode Title="ModernWindow.CommandArea property" Url="html/P_Hummingbird_UI_ModernWindow_CommandArea.htm" />
   <HelpKINode Title="ModernWindow.CommandAreaProperty field" Url="html/F_Hummingbird_UI_ModernWindow_CommandAreaProperty.htm" />
   <HelpKINode Title="ModernWindow.DefaultStatusBar property" Url="html/P_Hummingbird_UI_ModernWindow_DefaultStatusBar.htm" />
+  <HelpKINode Title="ModernWindow.IsAvatarVisible property" Url="html/P_Hummingbird_UI_ModernWindow_IsAvatarVisible.htm" />
+  <HelpKINode Title="ModernWindow.IsAvatarVisibleProperty field" Url="html/F_Hummingbird_UI_ModernWindow_IsAvatarVisibleProperty.htm" />
   <HelpKINode Title="ModernWindow.IsContentDetachable property" Url="html/P_Hummingbird_UI_ModernWindow_IsContentDetachable.htm" />
   <HelpKINode Title="ModernWindow.IsContentDetachableProperty field" Url="html/F_Hummingbird_UI_ModernWindow_IsContentDetachableProperty.htm" />
   <HelpKINode Title="ModernWindow.IsContentDetached property" Url="html/P_Hummingbird_UI_ModernWindow_IsContentDetached.htm" />
