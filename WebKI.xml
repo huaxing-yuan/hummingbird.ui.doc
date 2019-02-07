@@ -101,6 +101,7 @@
   <HelpKINode Title="CaptionProperty field" Url="html/F_Hummingbird_UI_AppBarButton_CaptionProperty.htm" />
   <HelpKINode Title="CheckedText property" Url="html/P_Hummingbird_UI_ModernSwitch_CheckedText.htm" />
   <HelpKINode Title="CheckedTextProperty field" Url="html/F_Hummingbird_UI_ModernSwitch_CheckedTextProperty.htm" />
+  <HelpKINode Title="Circle enumeration member" Url="html/T_Hummingbird_UI_DotStyles.htm" />
   <HelpKINode Title="ClassicMessageBox class">
     <HelpKINode Title="ClassicMessageBox Class" Url="html/T_Hummingbird_UI_ClassicMessageBox.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ClassicMessageBox.htm" />
@@ -161,6 +162,9 @@
     <HelpKINode Title="BasicWindow.Dispose Method " Url="html/Overload_Hummingbird_UI_BasicWindow_Dispose.htm" />
     <HelpKINode Title="ModernContent.Dispose Method " Url="html/Overload_Hummingbird_UI_ModernContent_Dispose.htm" />
   </HelpKINode>
+  <HelpKINode Title="DotStyle property" Url="html/P_Hummingbird_UI_ModernProgressBar_DotStyle.htm" />
+  <HelpKINode Title="DotStyleProperty field" Url="html/F_Hummingbird_UI_ModernProgressBar_DotStyleProperty.htm" />
+  <HelpKINode Title="DotStyles enumeration" Url="html/T_Hummingbird_UI_DotStyles.htm" />
   <HelpKINode Title="Enabled attached property" Url="html/P_Hummingbird_UI_TextBlockAutoToolTip_Enabled.htm" />
   <HelpKINode Title="EnabledProperty field" Url="html/F_Hummingbird_UI_TextBlockAutoToolTip_EnabledProperty.htm" />
   <HelpKINode Title="EndColor property" Url="html/P_Hummingbird_UI_ModernTile_EndColor.htm" />
@@ -215,6 +219,7 @@
   <HelpKINode Title="Hummingbird.UI.Converters.IntToVisibilityConverterReversed class" Url="html/T_Hummingbird_UI_Converters_IntToVisibilityConverterReversed.htm" />
   <HelpKINode Title="Hummingbird.UI.Converters.StringToIntArrayTypeConverter class" Url="html/T_Hummingbird_UI_Converters_StringToIntArrayTypeConverter.htm" />
   <HelpKINode Title="Hummingbird.UI.Converters.StringToResourceConverter class" Url="html/T_Hummingbird_UI_Converters_StringToResourceConverter.htm" />
+  <HelpKINode Title="Hummingbird.UI.DotStyles enumeration" Url="html/T_Hummingbird_UI_DotStyles.htm" />
   <HelpKINode Title="Hummingbird.UI.GridWithPadding class" Url="html/T_Hummingbird_UI_GridWithPadding.htm" />
   <HelpKINode Title="Hummingbird.UI.IconCheckBox class" Url="html/T_Hummingbird_UI_IconCheckBox.htm" />
   <HelpKINode Title="Hummingbird.UI.ModernContent class" Url="html/T_Hummingbird_UI_ModernContent.htm" />
@@ -432,10 +437,16 @@
   <HelpKINode Title="ModernProgressBar class">
     <HelpKINode Title="ModernProgressBar Class" Url="html/T_Hummingbird_UI_ModernProgressBar.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernProgressBar__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_ModernProgressBar.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_ModernProgressBar.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Hummingbird_UI_ModernProgressBar.htm" />
   </HelpKINode>
+  <HelpKINode Title="ModernProgressBar.DotStyle property" Url="html/P_Hummingbird_UI_ModernProgressBar_DotStyle.htm" />
+  <HelpKINode Title="ModernProgressBar.DotStyleProperty field" Url="html/F_Hummingbird_UI_ModernProgressBar_DotStyleProperty.htm" />
   <HelpKINode Title="ModernProgressBar.InitializeComponent method" Url="html/M_Hummingbird_UI_ModernProgressBar_InitializeComponent.htm" />
   <HelpKINode Title="ModernProgressBar.ModernProgressBar constructor" Url="html/M_Hummingbird_UI_ModernProgressBar__ctor.htm" />
+  <HelpKINode Title="ModernProgressBar.Radius property" Url="html/P_Hummingbird_UI_ModernProgressBar_Radius.htm" />
+  <HelpKINode Title="ModernProgressBar.RadiusProperty field" Url="html/F_Hummingbird_UI_ModernProgressBar_RadiusProperty.htm" />
   <HelpKINode Title="ModernSwitch class">
     <HelpKINode Title="ModernSwitch Class" Url="html/T_Hummingbird_UI_ModernSwitch.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_ModernSwitch__ctor.htm" />
@@ -554,6 +565,9 @@
   <HelpKINode Title="ProgressBarSmoother.Value attached property" Url="html/P_Hummingbird_UI_ProgressBarSmoother_Value.htm" />
   <HelpKINode Title="ProgressBarSmoother.ValueProperty field" Url="html/F_Hummingbird_UI_ProgressBarSmoother_ValueProperty.htm" />
   <HelpKINode Title="PropertyChanged event" Url="html/E_Hummingbird_UI_Node_PropertyChanged.htm" />
+  <HelpKINode Title="Radius property" Url="html/P_Hummingbird_UI_ModernProgressBar_Radius.htm" />
+  <HelpKINode Title="RadiusProperty field" Url="html/F_Hummingbird_UI_ModernProgressBar_RadiusProperty.htm" />
+  <HelpKINode Title="Rectangle enumeration member" Url="html/T_Hummingbird_UI_DotStyles.htm" />
   <HelpKINode Title="SelectedItems property" Url="html/P_Hummingbird_UI_MultiSelectComboBox_SelectedItems.htm" />
   <HelpKINode Title="SelectedItemsChanged event" Url="html/E_Hummingbird_UI_MultiSelectComboBox_SelectedItemsChanged.htm" />
   <HelpKINode Title="SelectedItemsProperty field" Url="html/F_Hummingbird_UI_MultiSelectComboBox_SelectedItemsProperty.htm" />
