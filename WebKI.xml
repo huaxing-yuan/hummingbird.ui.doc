@@ -83,7 +83,8 @@
   <HelpKINode Title="BasicWindow.SideBarTitleProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarTitleProperty.htm" />
   <HelpKINode Title="BasicWindow.SideBarVisibility property" Url="html/P_Hummingbird_UI_BasicWindow_SideBarVisibility.htm" />
   <HelpKINode Title="BasicWindow.SideBarVisibilityProperty field" Url="html/F_Hummingbird_UI_BasicWindow_SideBarVisibilityProperty.htm" />
-  <HelpKINode Title="BasicWindow.UpdateIconBackground method" Url="html/M_Hummingbird_UI_BasicWindow_UpdateIconBackground.htm" />
+  <HelpKINode Title="BasicWindow.UpdateBackground method" Url="html/M_Hummingbird_UI_BasicWindow_UpdateBackground.htm" />
+  <HelpKINode Title="BasicWindow.UpdateIcon method" Url="html/M_Hummingbird_UI_BasicWindow_UpdateIcon.htm" />
   <HelpKINode Title="BasicWindow.WindowStatus property" Url="html/P_Hummingbird_UI_BasicWindow_WindowStatus.htm" />
   <HelpKINode Title="BasicWindow.WindowStatusProperty field" Url="html/F_Hummingbird_UI_BasicWindow_WindowStatusProperty.htm" />
   <HelpKINode Title="BooleanToVisibilityConverterReversed class">
@@ -170,6 +171,7 @@
   <HelpKINode Title="EndColor property" Url="html/P_Hummingbird_UI_ModernTile_EndColor.htm" />
   <HelpKINode Title="EndColorProperty field" Url="html/F_Hummingbird_UI_ModernTile_EndColorProperty.htm" />
   <HelpKINode Title="Error enumeration member" Url="html/T_Hummingbird_UI_NotificationLevel.htm" />
+  <HelpKINode Title="GetIsActive method" Url="html/M_Hummingbird_UI_SaveAsImageExtender_GetIsActive.htm" />
   <HelpKINode Title="GetIsLastOne method" Url="html/M_Hummingbird_UI_TreeViewItemExtender_GetIsLastOne.htm" />
   <HelpKINode Title="GetIsToggleButtonVisible method" Url="html/M_Hummingbird_UI_TreeViewItemExtender_GetIsToggleButtonVisible.htm" />
   <HelpKINode Title="GetMarginProperty method" Url="html/M_Hummingbird_UI_GridWithPadding_GetMarginProperty.htm" />
@@ -235,6 +237,7 @@
   <HelpKINode Title="Hummingbird.UI.Node class" Url="html/T_Hummingbird_UI_Node.htm" />
   <HelpKINode Title="Hummingbird.UI.NotificationLevel enumeration" Url="html/T_Hummingbird_UI_NotificationLevel.htm" />
   <HelpKINode Title="Hummingbird.UI.ProgressBarSmoother class" Url="html/T_Hummingbird_UI_ProgressBarSmoother.htm" />
+  <HelpKINode Title="Hummingbird.UI.SaveAsImageExtender class" Url="html/T_Hummingbird_UI_SaveAsImageExtender.htm" />
   <HelpKINode Title="Hummingbird.UI.SyncTreeViewItem class" Url="html/T_Hummingbird_UI_SyncTreeViewItem.htm" />
   <HelpKINode Title="Hummingbird.UI.TextBlockAutoToolTip class" Url="html/T_Hummingbird_UI_TextBlockAutoToolTip.htm" />
   <HelpKINode Title="Hummingbird.UI.TreeViewItemExtender class" Url="html/T_Hummingbird_UI_TreeViewItemExtender.htm" />
@@ -290,6 +293,8 @@
   <HelpKINode Title="IntToVisibilityConverterReversed.Convert method" Url="html/M_Hummingbird_UI_Converters_IntToVisibilityConverterReversed_Convert.htm" />
   <HelpKINode Title="IntToVisibilityConverterReversed.ConvertBack method" Url="html/M_Hummingbird_UI_Converters_IntToVisibilityConverterReversed_ConvertBack.htm" />
   <HelpKINode Title="IntToVisibilityConverterReversed.IntToVisibilityConverterReversed constructor" Url="html/M_Hummingbird_UI_Converters_IntToVisibilityConverterReversed__ctor.htm" />
+  <HelpKINode Title="IsActive attached property" Url="html/P_Hummingbird_UI_SaveAsImageExtender_IsActive.htm" />
+  <HelpKINode Title="IsActiveProperty field" Url="html/F_Hummingbird_UI_SaveAsImageExtender_IsActiveProperty.htm" />
   <HelpKINode Title="IsAvatarVisible property" Url="html/P_Hummingbird_UI_ModernWindow_IsAvatarVisible.htm" />
   <HelpKINode Title="IsAvatarVisibleProperty field" Url="html/F_Hummingbird_UI_ModernWindow_IsAvatarVisibleProperty.htm" />
   <HelpKINode Title="IsBusy property" Url="html/P_Hummingbird_UI_BasicWindow_IsBusy.htm" />
@@ -515,6 +520,7 @@
   <HelpKINode Title="ModernWindow.ShowBackstage method" Url="html/M_Hummingbird_UI_ModernWindow_ShowBackstage.htm" />
   <HelpKINode Title="ModernWindow.StatusBar property" Url="html/P_Hummingbird_UI_ModernWindow_StatusBar.htm" />
   <HelpKINode Title="ModernWindow.StatusBarProperty field" Url="html/F_Hummingbird_UI_ModernWindow_StatusBarProperty.htm" />
+  <HelpKINode Title="ModernWindow.UpdateIcon method" Url="html/M_Hummingbird_UI_ModernWindow_UpdateIcon.htm" />
   <HelpKINode Title="MultiSelectComboBox class">
     <HelpKINode Title="MultiSelectComboBox Class" Url="html/T_Hummingbird_UI_MultiSelectComboBox.htm" />
     <HelpKINode Title="constructor" Url="html/M_Hummingbird_UI_MultiSelectComboBox__ctor.htm" />
@@ -568,10 +574,23 @@
   <HelpKINode Title="Radius property" Url="html/P_Hummingbird_UI_ModernProgressBar_Radius.htm" />
   <HelpKINode Title="RadiusProperty field" Url="html/F_Hummingbird_UI_ModernProgressBar_RadiusProperty.htm" />
   <HelpKINode Title="Rectangle enumeration member" Url="html/T_Hummingbird_UI_DotStyles.htm" />
+  <HelpKINode Title="SaveAsImageExtender class">
+    <HelpKINode Title="SaveAsImageExtender Class" Url="html/T_Hummingbird_UI_SaveAsImageExtender.htm" />
+    <HelpKINode Title="attached properties" Url="html/AttachedProperties_T_Hummingbird_UI_SaveAsImageExtender.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Hummingbird_UI_SaveAsImageExtender.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Hummingbird_UI_SaveAsImageExtender.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SaveAsImageExtender.GetIsActive method" Url="html/M_Hummingbird_UI_SaveAsImageExtender_GetIsActive.htm" />
+  <HelpKINode Title="SaveAsImageExtender.IsActive attached property" Url="html/P_Hummingbird_UI_SaveAsImageExtender_IsActive.htm" />
+  <HelpKINode Title="SaveAsImageExtender.IsActiveProperty field" Url="html/F_Hummingbird_UI_SaveAsImageExtender_IsActiveProperty.htm" />
+  <HelpKINode Title="SaveAsImageExtender.SaveAsImageExtenderProperty field" Url="html/F_Hummingbird_UI_SaveAsImageExtender_SaveAsImageExtenderProperty.htm" />
+  <HelpKINode Title="SaveAsImageExtender.SetIsActive method" Url="html/M_Hummingbird_UI_SaveAsImageExtender_SetIsActive.htm" />
+  <HelpKINode Title="SaveAsImageExtenderProperty field" Url="html/F_Hummingbird_UI_SaveAsImageExtender_SaveAsImageExtenderProperty.htm" />
   <HelpKINode Title="SelectedItems property" Url="html/P_Hummingbird_UI_MultiSelectComboBox_SelectedItems.htm" />
   <HelpKINode Title="SelectedItemsChanged event" Url="html/E_Hummingbird_UI_MultiSelectComboBox_SelectedItemsChanged.htm" />
   <HelpKINode Title="SelectedItemsProperty field" Url="html/F_Hummingbird_UI_MultiSelectComboBox_SelectedItemsProperty.htm" />
   <HelpKINode Title="SetEnabled method" Url="html/M_Hummingbird_UI_TextBlockAutoToolTip_SetEnabled.htm" />
+  <HelpKINode Title="SetIsActive method" Url="html/M_Hummingbird_UI_SaveAsImageExtender_SetIsActive.htm" />
   <HelpKINode Title="SetIsLastOne method" Url="html/M_Hummingbird_UI_TreeViewItemExtender_SetIsLastOne.htm" />
   <HelpKINode Title="SetIsToggleButtonVisible method" Url="html/M_Hummingbird_UI_TreeViewItemExtender_SetIsToggleButtonVisible.htm" />
   <HelpKINode Title="SetUseExtender method" Url="html/M_Hummingbird_UI_TreeViewItemExtender_SetUseExtender.htm" />
@@ -683,7 +702,11 @@
   <HelpKINode Title="UIHelper.ParentOfType&lt;T&gt; method" Url="html/M_Hummingbird_UI_UIHelper_ParentOfType__1.htm" />
   <HelpKINode Title="UnCheckedText property" Url="html/P_Hummingbird_UI_ModernSwitch_UnCheckedText.htm" />
   <HelpKINode Title="UnCheckedTextProperty field" Url="html/F_Hummingbird_UI_ModernSwitch_UnCheckedTextProperty.htm" />
-  <HelpKINode Title="UpdateIconBackground method" Url="html/M_Hummingbird_UI_BasicWindow_UpdateIconBackground.htm" />
+  <HelpKINode Title="UpdateBackground method" Url="html/M_Hummingbird_UI_BasicWindow_UpdateBackground.htm" />
+  <HelpKINode Title="UpdateIcon method">
+    <HelpKINode Title="BasicWindow.UpdateIcon Method " Url="html/M_Hummingbird_UI_BasicWindow_UpdateIcon.htm" />
+    <HelpKINode Title="ModernWindow.UpdateIcon Method " Url="html/M_Hummingbird_UI_ModernWindow_UpdateIcon.htm" />
+  </HelpKINode>
   <HelpKINode Title="UseExtender attached property" Url="html/P_Hummingbird_UI_TreeViewItemExtender_UseExtender.htm" />
   <HelpKINode Title="UseExtenderProperty field" Url="html/F_Hummingbird_UI_TreeViewItemExtender_UseExtenderProperty.htm" />
   <HelpKINode Title="UseGradient property" Url="html/P_Hummingbird_UI_ModernTile_UseGradient.htm" />
